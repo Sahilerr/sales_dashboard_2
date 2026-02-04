@@ -1,0 +1,1001 @@
+Transaction ID,Date,Customer ID,Gender,Age,Product Category,Quantity,Price per Unit,Total Amount,Year,Month,Day,January,Qurter,Product Name
+1,01-01-2023,CUST001,Male,34,Beauty,3,50,150,2023,1,1,January,Q1,Hair Oil
+2,01-01-2023,CUST002,Female,26,Clothing,2,500,1000,2023,1,1,January,Q1,Jeans
+3,01-01-2023,CUST003,Male,50,Electronics,1,30,30,2023,1,1,January,Q1,Power Adapter
+4,02-01-2023,CUST004,Male,37,Clothing,1,500,500,2023,1,2,January,Q1,Casual Shirt
+5,02-01-2023,CUST005,Male,30,Beauty,2,50,100,2023,1,2,January,Q1,Face Cream
+6,02-01-2023,CUST006,Female,45,Beauty,1,30,30,2023,1,2,January,Q1,Hair Oil
+7,02-01-2023,CUST007,Male,46,Clothing,2,25,50,2023,1,2,January,Q1,Jeans
+8,03-01-2023,CUST008,Male,30,Electronics,4,25,100,2023,1,3,January,Q1,Charging Cable
+9,04-01-2023,CUST009,Male,63,Electronics,2,300,600,2023,1,4,January,Q1,OTG Cable
+10,04-01-2023,CUST010,Female,52,Clothing,4,50,200,2023,1,4,January,Q1,T-Shirt
+11,04-01-2023,CUST011,Male,23,Clothing,2,50,100,2023,1,4,January,Q1,Cotton Trousers
+12,05-01-2023,CUST012,Male,35,Beauty,3,25,75,2023,1,5,January,Q1,Makeup Brush
+13,05-01-2023,CUST013,Male,22,Electronics,3,500,1500,2023,1,5,January,Q1,Wired Earphones
+14,05-01-2023,CUST014,Male,64,Clothing,4,30,120,2023,1,5,January,Q1,Sweater
+15,06-01-2023,CUST015,Female,42,Electronics,4,500,2000,2023,1,6,January,Q1,Memory Card
+16,06-01-2023,CUST016,Male,19,Clothing,3,500,1500,2023,1,6,January,Q1,T-Shirt
+17,07-01-2023,CUST017,Female,27,Clothing,4,25,100,2023,1,7,January,Q1,Denim Jacket
+18,07-01-2023,CUST018,Female,47,Electronics,2,25,50,2023,1,7,January,Q1,USB Cable
+19,08-01-2023,CUST019,Female,62,Clothing,2,25,50,2023,1,8,January,Q1,T-Shirt
+20,08-01-2023,CUST020,Male,22,Clothing,3,300,900,2023,1,8,January,Q1,Casual Shirt
+21,09-01-2023,CUST021,Female,50,Beauty,1,500,500,2023,1,9,January,Q1,Hair Serum
+22,10-01-2023,CUST022,Male,18,Clothing,2,50,100,2023,1,10,January,Q1,Cotton Trousers
+23,10-01-2023,CUST023,Female,35,Clothing,4,30,120,2023,1,10,January,Q1,Cotton Trousers
+24,11-01-2023,CUST024,Female,49,Clothing,1,300,300,2023,1,11,January,Q1,Casual Shirt
+25,11-01-2023,CUST025,Female,64,Beauty,1,50,50,2023,1,11,January,Q1,Nail Polish
+26,11-01-2023,CUST026,Female,28,Electronics,2,500,1000,2023,1,11,January,Q1,Charging Cable
+27,13-01-2023,CUST027,Female,38,Beauty,2,25,50,2023,1,13,January,Q1,Face Cream
+28,13-01-2023,CUST028,Female,43,Beauty,1,500,500,2023,1,13,January,Q1,Hair Oil
+29,13-01-2023,CUST029,Female,42,Electronics,1,30,30,2023,1,13,January,Q1,Mouse
+30,13-01-2023,CUST030,Female,39,Beauty,3,300,900,2023,1,13,January,Q1,Makeup Brush
+31,14-01-2023,CUST031,Male,44,Electronics,4,300,1200,2023,1,14,January,Q1,Bluetooth Receiver
+32,14-01-2023,CUST032,Male,30,Beauty,3,30,90,2023,1,14,January,Q1,Lip Balm
+33,14-01-2023,CUST033,Female,50,Electronics,2,50,100,2023,1,14,January,Q1,Memory Card
+34,14-01-2023,CUST034,Female,51,Clothing,3,50,150,2023,1,14,January,Q1,Denim Jacket
+35,15-01-2023,CUST035,Female,58,Beauty,3,300,900,2023,1,15,January,Q1,Face Cream
+36,15-01-2023,CUST036,Male,52,Beauty,3,300,900,2023,1,15,January,Q1,Hair Oil
+37,15-01-2023,CUST037,Female,18,Beauty,3,25,75,2023,1,15,January,Q1,Nail Polish
+38,16-01-2023,CUST038,Male,38,Beauty,4,50,200,2023,1,16,January,Q1,Compact Powder
+39,16-01-2023,CUST039,Male,23,Clothing,4,30,120,2023,1,16,January,Q1,Denim Jacket
+40,17-01-2023,CUST040,Male,45,Beauty,1,50,50,2023,1,17,January,Q1,Hair Serum
+41,17-01-2023,CUST041,Male,34,Clothing,2,25,50,2023,1,17,January,Q1,Jeans
+42,17-01-2023,CUST042,Male,22,Clothing,3,300,900,2023,1,17,January,Q1,Kurti
+43,17-01-2023,CUST043,Female,48,Clothing,1,300,300,2023,1,17,January,Q1,Cotton Trousers
+44,19-01-2023,CUST044,Female,22,Clothing,1,25,25,2023,1,19,January,Q1,Casual Shirt
+45,20-01-2023,CUST045,Female,55,Electronics,1,30,30,2023,1,20,January,Q1,Power Adapter
+46,20-01-2023,CUST046,Female,20,Electronics,4,300,1200,2023,1,20,January,Q1,Bluetooth Receiver
+47,21-01-2023,CUST047,Female,40,Beauty,3,500,1500,2023,1,21,January,Q1,Hair Serum
+48,21-01-2023,CUST048,Male,54,Electronics,3,300,900,2023,1,21,January,Q1,Keyboard
+49,21-01-2023,CUST049,Female,54,Electronics,2,500,1000,2023,1,21,January,Q1,Charging Cable
+50,22-01-2023,CUST050,Female,27,Beauty,3,25,75,2023,1,22,January,Q1,Hair Serum
+51,22-01-2023,CUST051,Male,27,Beauty,3,25,75,2023,1,22,January,Q1,Hair Serum
+52,23-01-2023,CUST052,Female,36,Beauty,1,300,300,2023,1,23,January,Q1,Hair Oil
+53,23-01-2023,CUST053,Male,34,Electronics,2,50,100,2023,1,23,January,Q1,Mobile Stand
+54,23-01-2023,CUST054,Female,38,Electronics,3,500,1500,2023,1,23,January,Q1,Bluetooth Receiver
+55,24-01-2023,CUST055,Male,31,Beauty,4,30,120,2023,1,24,January,Q1,Hair Oil
+56,24-01-2023,CUST056,Female,26,Clothing,3,300,900,2023,1,24,January,Q1,Hoodie
+57,24-01-2023,CUST057,Female,63,Beauty,1,30,30,2023,1,24,January,Q1,Makeup Brush
+58,25-01-2023,CUST058,Male,18,Clothing,4,300,1200,2023,1,25,January,Q1,Kurti
+59,26-01-2023,CUST059,Male,62,Clothing,1,50,50,2023,1,26,January,Q1,Sweater
+60,26-01-2023,CUST060,Male,30,Beauty,3,50,150,2023,1,26,January,Q1,Face Wash
+61,26-01-2023,CUST061,Male,21,Beauty,4,50,200,2023,1,26,January,Q1,Hair Serum
+62,26-01-2023,CUST062,Male,18,Beauty,2,50,100,2023,1,26,January,Q1,Makeup Brush
+63,27-01-2023,CUST063,Male,57,Electronics,2,25,50,2023,1,27,January,Q1,Power Adapter
+64,27-01-2023,CUST064,Male,49,Clothing,4,25,100,2023,1,27,January,Q1,Formal Shirt
+65,27-01-2023,CUST065,Male,51,Electronics,4,500,2000,2023,1,27,January,Q1,Mobile Stand
+66,28-01-2023,CUST066,Female,45,Electronics,1,30,30,2023,1,28,January,Q1,Bluetooth Receiver
+67,28-01-2023,CUST067,Female,48,Beauty,4,300,1200,2023,1,28,January,Q1,Hair Serum
+68,28-01-2023,CUST068,Male,25,Electronics,1,300,300,2023,1,28,January,Q1,Memory Card
+69,29-01-2023,CUST069,Female,56,Beauty,3,25,75,2023,1,29,January,Q1,Compact Powder
+70,30-01-2023,CUST070,Female,43,Clothing,1,300,300,2023,1,30,January,Q1,Hoodie
+71,30-01-2023,CUST071,Female,51,Beauty,4,25,100,2023,1,30,January,Q1,Nail Polish
+72,30-01-2023,CUST072,Female,20,Electronics,4,500,2000,2023,1,30,January,Q1,Power Adapter
+73,30-01-2023,CUST073,Male,29,Electronics,3,30,90,2023,1,30,January,Q1,Power Adapter
+74,31-01-2023,CUST074,Female,18,Beauty,4,500,2000,2023,1,31,January,Q1,Hair Serum
+75,31-01-2023,CUST075,Male,61,Beauty,4,50,200,2023,1,31,January,Q1,Body Lotion
+76,31-01-2023,CUST076,Female,22,Electronics,2,50,100,2023,1,31,February,Q1,Power Adapter
+77,01-02-2023,CUST077,Female,47,Clothing,2,50,100,2023,2,1,February,Q1,Cotton Trousers
+78,01-02-2023,CUST078,Female,47,Clothing,3,500,1500,2023,2,1,February,Q1,Jeans
+79,01-02-2023,CUST079,Male,34,Beauty,1,300,300,2023,2,1,February,Q1,Lip Balm
+80,02-02-2023,CUST080,Female,64,Clothing,2,30,60,2023,2,2,February,Q1,T-Shirt
+89,05-02-2023,CUST089,Female,55,Electronics,4,500,2000,2023,2,5,February,Q1,Charging Cable
+82,02-02-2023,CUST082,Female,32,Beauty,4,50,200,2023,2,2,February,Q1,Face Wash
+109,10-02-2023,CUST109,Female,34,Electronics,4,500,2000,2023,2,10,February,Q1,Power Adapter
+118,13-02-2023,CUST118,Female,30,Electronics,4,500,2000,2023,2,13,February,Q1,Power Adapter
+85,04-02-2023,CUST085,Male,31,Clothing,3,50,150,2023,2,4,February,Q1,Formal Shirt
+86,04-02-2023,CUST086,Male,19,Beauty,3,30,90,2023,2,4,February,Q1,Face Wash
+87,05-02-2023,CUST087,Female,28,Beauty,2,50,100,2023,2,5,February,Q1,Body Lotion
+88,05-02-2023,CUST088,Male,56,Clothing,1,500,500,2023,2,5,February,Q1,Sweater
+152,25-02-2023,CUST152,Male,43,Electronics,4,500,2000,2023,2,25,February,Q1,Wired Earphones
+155,27-02-2023,CUST155,Male,31,Electronics,4,500,2000,2023,2,27,February,Q1,Wired Earphones
+157,27-02-2023,CUST157,Male,62,Electronics,4,500,2000,2023,2,27,February,Q1,Bluetooth Receiver
+412,25-05-2023,CUST412,Female,19,Electronics,4,500,2000,2023,5,25,February,Q2,Charging Cable
+93,05-02-2023,CUST093,Female,35,Beauty,4,500,2000,2023,2,5,February,Q1,Aloe Vera Gel
+94,05-02-2023,CUST094,Female,47,Beauty,2,500,1000,2023,2,5,February,Q1,Aloe Vera Gel
+95,06-02-2023,CUST095,Female,32,Clothing,2,30,60,2023,2,6,February,Q1,Sweater
+96,06-02-2023,CUST096,Female,44,Clothing,2,300,600,2023,2,6,February,Q1,Kurti
+97,06-02-2023,CUST097,Female,51,Beauty,2,500,1000,2023,2,6,February,Q1,Lip Balm
+98,06-02-2023,CUST098,Female,55,Beauty,2,50,100,2023,2,6,February,Q1,Aloe Vera Gel
+416,27-05-2023,CUST416,Male,53,Electronics,4,500,2000,2023,5,27,February,Q2,Bluetooth Receiver
+111,11-02-2023,CUST111,Female,34,Electronics,3,500,1500,2023,2,11,February,Q1,Memory Card
+101,07-02-2023,CUST101,Male,32,Clothing,2,300,600,2023,2,7,February,Q1,Jeans
+102,07-02-2023,CUST102,Female,47,Beauty,2,25,50,2023,2,7,February,Q1,Aloe Vera Gel
+103,08-02-2023,CUST103,Female,59,Clothing,1,25,25,2023,2,8,February,Q1,Sweater
+104,08-02-2023,CUST104,Female,34,Beauty,2,500,1000,2023,2,8,February,Q1,Hair Oil
+356,09-05-2023,CUST356,Male,50,Electronics,3,500,1500,2023,5,9,February,Q2,Charging Cable
+106,08-02-2023,CUST106,Female,46,Clothing,1,50,50,2023,2,8,February,Q1,Cotton Trousers
+107,09-02-2023,CUST107,Female,21,Clothing,4,300,1200,2023,2,9,February,Q1,T-Shirt
+108,10-02-2023,CUST108,Female,27,Beauty,3,25,75,2023,2,10,February,Q1,Compact Powder
+369,15-05-2023,CUST369,Male,23,Electronics,3,500,1500,2023,5,15,February,Q2,Keyboard
+110,10-02-2023,CUST110,Male,27,Clothing,3,300,900,2023,2,10,February,Q1,Kurti
+385,18-05-2023,CUST385,Male,50,Electronics,3,500,1500,2023,5,18,February,Q2,Mobile Stand
+112,11-02-2023,CUST112,Male,37,Clothing,3,500,1500,2023,2,11,February,Q1,Denim Jacket
+99,07-02-2023,CUST099,Female,50,Electronics,4,300,1200,2023,2,7,February,Q1,Charging Cable
+114,11-02-2023,CUST114,Female,22,Beauty,4,25,100,2023,2,11,February,Q1,Face Wash
+115,11-02-2023,CUST115,Male,51,Clothing,3,500,1500,2023,2,11,February,Q1,Jeans
+116,12-02-2023,CUST116,Female,23,Clothing,1,30,30,2023,2,12,February,Q1,Hoodie
+142,22-02-2023,CUST142,Male,35,Electronics,4,300,1200,2023,2,22,February,Q1,OTG Cable
+332,04-05-2023,CUST332,Male,58,Electronics,4,300,1200,2023,5,4,February,Q2,Wired Earphones
+119,13-02-2023,CUST119,Female,60,Clothing,3,50,150,2023,2,13,February,Q1,Track Pants
+120,13-02-2023,CUST120,Male,60,Beauty,1,50,50,2023,2,13,February,Q1,Makeup Brush
+333,04-05-2023,CUST333,Female,54,Electronics,4,300,1200,2023,5,4,February,Q2,Charging Cable
+361,11-05-2023,CUST361,Female,34,Electronics,4,300,1200,2023,5,11,February,Q2,Bluetooth Receiver
+117,13-02-2023,CUST117,Male,19,Electronics,2,500,1000,2023,2,13,February,Q1,Memory Card
+124,17-02-2023,CUST124,Male,33,Clothing,4,500,2000,2023,2,17,February,Q1,Denim Jacket
+125,17-02-2023,CUST125,Male,48,Clothing,2,50,100,2023,2,17,February,Q1,Casual Shirt
+126,17-02-2023,CUST126,Female,28,Clothing,3,30,90,2023,2,17,February,Q1,Formal Shirt
+127,17-02-2023,CUST127,Female,33,Clothing,2,25,50,2023,2,17,February,Q1,Sweater
+128,17-02-2023,CUST128,Male,25,Beauty,1,500,500,2023,2,17,February,Q1,Compact Powder
+129,17-02-2023,CUST129,Female,21,Beauty,2,300,600,2023,2,17,February,Q1,Compact Powder
+130,18-02-2023,CUST130,Female,57,Clothing,1,500,500,2023,2,18,February,Q1,T-Shirt
+131,19-02-2023,CUST131,Female,21,Beauty,2,300,600,2023,2,19,February,Q1,Face Wash
+153,26-02-2023,CUST153,Male,63,Electronics,2,500,1000,2023,2,26,February,Q1,Charging Cable
+352,08-05-2023,CUST352,Male,57,Electronics,2,500,1000,2023,5,8,February,Q2,Bluetooth Receiver
+395,21-05-2023,CUST395,Male,50,Electronics,2,500,1000,2023,5,21,February,Q2,Wired Earphones
+135,20-02-2023,CUST135,Male,20,Clothing,2,25,50,2023,2,20,February,Q1,Kurti
+404,23-05-2023,CUST404,Male,46,Electronics,2,500,1000,2023,5,23,February,Q2,Charging Cable
+137,21-02-2023,CUST137,Male,46,Beauty,2,500,1000,2023,2,21,February,Q1,Body Lotion
+138,21-02-2023,CUST138,Male,49,Clothing,4,50,200,2023,2,21,February,Q1,Kurti
+139,22-02-2023,CUST139,Male,36,Beauty,4,500,2000,2023,2,22,February,Q1,Makeup Brush
+418,27-05-2023,CUST418,Female,60,Electronics,2,500,1000,2023,5,27,February,Q2,Mobile Stand
+133,20-02-2023,CUST133,Male,20,Electronics,3,300,900,2023,2,20,February,Q1,Charging Cable
+154,27-02-2023,CUST154,Male,51,Electronics,3,300,900,2023,2,27,February,Q1,Wired Earphones
+143,22-02-2023,CUST143,Female,45,Clothing,1,50,50,2023,2,22,February,Q1,Kurti
+144,23-02-2023,CUST144,Female,59,Beauty,3,500,1500,2023,2,23,February,Q1,Hair Oil
+145,24-02-2023,CUST145,Female,39,Clothing,3,25,75,2023,2,24,February,Q1,T-Shirt
+146,24-02-2023,CUST146,Male,38,Clothing,4,50,200,2023,2,24,February,Q1,Cotton Trousers
+334,04-05-2023,CUST334,Male,31,Electronics,3,300,900,2023,5,4,February,Q2,OTG Cable
+148,24-02-2023,CUST148,Male,18,Clothing,2,30,60,2023,2,24,February,Q1,Kurti
+149,25-02-2023,CUST149,Male,22,Clothing,3,25,75,2023,2,25,February,Q1,Kurti
+407,23-05-2023,CUST407,Female,46,Electronics,3,300,900,2023,5,23,February,Q2,Mobile Stand
+151,25-02-2023,CUST151,Male,29,Clothing,1,50,50,2023,2,25,February,Q1,Denim Jacket
+409,24-05-2023,CUST409,Female,21,Electronics,3,300,900,2023,5,24,February,Q2,Power Adapter
+417,27-05-2023,CUST417,Male,43,Electronics,3,300,900,2023,5,27,February,Q2,Keyboard
+136,21-02-2023,CUST136,Male,44,Electronics,2,300,600,2023,2,21,February,Q1,Power Adapter
+158,28-02-2023,CUST158,Female,44,Electronics,2,300,600,2023,2,28,February,Q1,USB Cable
+156,27-02-2023,CUST156,Female,43,Clothing,4,25,100,2023,2,27,February,Q1,Track Pants
+348,07-05-2023,CUST348,Female,35,Electronics,2,300,600,2023,5,7,February,Q2,Mobile Stand
+380,16-05-2023,CUST380,Male,56,Electronics,2,300,600,2023,5,16,February,Q2,Keyboard
+159,28-02-2023,CUST159,Male,26,Clothing,4,50,200,2023,2,28,February,Q1,Track Pants
+160,28-02-2023,CUST160,Female,43,Clothing,2,50,100,2023,2,28,February,Q1,Jeans
+161,28-02-2023,CUST161,Male,64,Beauty,2,500,1000,2023,2,28,March,Q1,Makeup Brush
+162,01-03-2023,CUST162,Male,39,Clothing,2,30,60,2023,3,1,March,Q1,Track Pants
+163,01-03-2023,CUST163,Female,64,Clothing,3,50,150,2023,3,1,March,Q1,Formal Shirt
+164,01-03-2023,CUST164,Female,47,Beauty,3,500,1500,2023,3,1,March,Q1,Face Cream
+165,02-03-2023,CUST165,Female,60,Clothing,4,300,1200,2023,3,2,March,Q1,Kurti
+166,03-03-2023,CUST166,Male,34,Clothing,4,500,2000,2023,3,3,March,Q1,Kurti
+167,03-03-2023,CUST167,Female,43,Clothing,3,50,150,2023,3,3,March,Q1,Formal Shirt
+168,03-03-2023,CUST168,Male,53,Clothing,1,300,300,2023,3,3,March,Q1,Hoodie
+169,03-03-2023,CUST169,Male,18,Beauty,3,500,1500,2023,3,3,March,Q1,Hair Oil
+170,03-03-2023,CUST170,Female,25,Clothing,2,25,50,2023,3,3,March,Q1,Sweater
+171,04-03-2023,CUST171,Female,52,Clothing,3,300,900,2023,3,4,March,Q1,Hoodie
+172,05-03-2023,CUST172,Male,32,Beauty,2,25,50,2023,3,5,March,Q1,Face Wash
+173,05-03-2023,CUST173,Male,64,Electronics,4,30,120,2023,3,5,March,Q1,Mouse
+174,06-03-2023,CUST174,Female,39,Beauty,1,300,300,2023,3,6,March,Q1,Lip Balm
+175,06-03-2023,CUST175,Female,31,Electronics,4,25,100,2023,3,6,March,Q1,Keyboard
+176,06-03-2023,CUST176,Female,43,Beauty,2,50,100,2023,3,6,March,Q1,Face Cream
+177,06-03-2023,CUST177,Male,45,Beauty,2,50,100,2023,3,6,March,Q1,Aloe Vera Gel
+178,07-03-2023,CUST178,Male,40,Clothing,2,30,60,2023,3,7,March,Q1,Formal Shirt
+179,07-03-2023,CUST179,Male,31,Electronics,1,300,300,2023,3,7,March,Q1,Bluetooth Receiver
+180,07-03-2023,CUST180,Male,41,Clothing,3,300,900,2023,3,7,March,Q1,Kurti
+181,07-03-2023,CUST181,Male,19,Electronics,4,300,1200,2023,3,7,March,Q1,OTG Cable
+182,08-03-2023,CUST182,Male,62,Beauty,4,30,120,2023,3,8,March,Q1,Face Wash
+183,09-03-2023,CUST183,Female,43,Beauty,3,300,900,2023,3,9,March,Q1,Face Cream
+184,09-03-2023,CUST184,Male,31,Electronics,4,50,200,2023,3,9,March,Q1,Keyboard
+185,09-03-2023,CUST185,Male,24,Clothing,1,25,25,2023,3,9,March,Q1,Denim Jacket
+186,10-03-2023,CUST186,Male,20,Clothing,4,50,200,2023,3,10,March,Q1,Jeans
+187,10-03-2023,CUST187,Female,64,Clothing,2,50,100,2023,3,10,March,Q1,T-Shirt
+188,11-03-2023,CUST188,Male,40,Clothing,3,25,75,2023,3,11,March,Q1,Casual Shirt
+189,12-03-2023,CUST189,Male,63,Beauty,1,50,50,2023,3,12,March,Q1,Hair Oil
+190,12-03-2023,CUST190,Female,60,Beauty,3,30,90,2023,3,12,March,Q1,Lip Balm
+191,13-03-2023,CUST191,Male,64,Beauty,1,25,25,2023,3,13,March,Q1,Compact Powder
+192,13-03-2023,CUST192,Male,62,Beauty,2,50,100,2023,3,13,March,Q1,Hair Oil
+193,13-03-2023,CUST193,Male,35,Beauty,3,500,1500,2023,3,13,March,Q1,Face Cream
+194,15-03-2023,CUST194,Male,55,Clothing,4,50,200,2023,3,15,March,Q1,Kurti
+195,17-03-2023,CUST195,Male,52,Clothing,1,30,30,2023,3,17,March,Q1,Hoodie
+196,17-03-2023,CUST196,Female,32,Clothing,3,300,900,2023,3,17,March,Q1,Denim Jacket
+197,17-03-2023,CUST197,Female,42,Clothing,4,50,200,2023,3,17,March,Q1,Kurti
+198,18-03-2023,CUST198,Female,54,Beauty,3,300,900,2023,3,18,March,Q1,Face Wash
+199,18-03-2023,CUST199,Male,45,Beauty,3,500,1500,2023,3,18,March,Q1,Lip Balm
+200,19-03-2023,CUST200,Male,27,Beauty,3,50,150,2023,3,19,March,Q1,Aloe Vera Gel
+201,19-03-2023,CUST201,Male,56,Electronics,1,25,25,2023,3,19,March,Q1,OTG Cable
+202,20-03-2023,CUST202,Female,34,Clothing,4,300,1200,2023,3,20,March,Q1,Casual Shirt
+203,20-03-2023,CUST203,Male,56,Clothing,2,500,1000,2023,3,20,March,Q1,Cotton Trousers
+204,20-03-2023,CUST204,Male,39,Beauty,1,25,25,2023,3,20,March,Q1,Face Wash
+205,20-03-2023,CUST205,Female,43,Clothing,1,25,25,2023,3,20,March,Q1,Denim Jacket
+206,20-03-2023,CUST206,Male,61,Clothing,1,25,25,2023,3,20,March,Q1,Denim Jacket
+207,21-03-2023,CUST207,Female,42,Beauty,2,25,50,2023,3,21,March,Q1,Body Lotion
+208,21-03-2023,CUST208,Female,34,Electronics,4,50,200,2023,3,21,March,Q1,OTG Cable
+209,21-03-2023,CUST209,Female,30,Electronics,4,50,200,2023,3,21,March,Q1,Power Adapter
+210,21-03-2023,CUST210,Male,37,Electronics,4,50,200,2023,3,21,March,Q1,Memory Card
+211,22-03-2023,CUST211,Male,42,Beauty,3,500,1500,2023,3,22,March,Q1,Compact Powder
+212,22-03-2023,CUST212,Male,21,Clothing,3,500,1500,2023,3,22,March,Q1,Cotton Trousers
+213,22-03-2023,CUST213,Male,27,Beauty,3,500,1500,2023,3,22,March,Q1,Body Lotion
+214,22-03-2023,CUST214,Male,20,Beauty,2,30,60,2023,3,22,March,Q1,Face Cream
+215,22-03-2023,CUST215,Male,58,Clothing,3,500,1500,2023,3,22,March,Q1,Jeans
+216,23-03-2023,CUST216,Male,62,Electronics,2,50,100,2023,3,23,March,Q1,Keyboard
+217,23-03-2023,CUST217,Female,35,Electronics,4,50,200,2023,3,23,March,Q1,Keyboard
+218,23-03-2023,CUST218,Male,64,Beauty,3,30,90,2023,3,23,March,Q1,Face Wash
+219,23-03-2023,CUST219,Female,53,Electronics,3,30,90,2023,3,23,March,Q1,Keyboard
+220,24-03-2023,CUST220,Male,64,Beauty,1,500,500,2023,3,24,March,Q1,Nail Polish
+221,24-03-2023,CUST221,Male,39,Beauty,2,300,600,2023,3,24,March,Q1,Lip Balm
+222,25-03-2023,CUST222,Male,51,Clothing,4,30,120,2023,3,25,March,Q1,Sweater
+223,25-03-2023,CUST223,Female,64,Clothing,1,25,25,2023,3,25,March,Q1,Kurti
+224,25-03-2023,CUST224,Female,25,Clothing,1,50,50,2023,3,25,March,Q1,Sweater
+225,25-03-2023,CUST225,Female,57,Beauty,4,25,100,2023,3,25,March,Q1,Nail Polish
+226,26-03-2023,CUST226,Female,61,Clothing,1,50,50,2023,3,26,March,Q1,Denim Jacket
+227,26-03-2023,CUST227,Male,36,Electronics,2,50,100,2023,3,26,March,Q1,Mobile Stand
+228,26-03-2023,CUST228,Female,59,Electronics,2,30,60,2023,3,26,March,Q1,USB Cable
+229,27-03-2023,CUST229,Male,58,Beauty,3,30,90,2023,3,27,March,Q1,Face Wash
+230,27-03-2023,CUST230,Male,54,Beauty,1,25,25,2023,3,27,March,Q1,Compact Powder
+231,28-03-2023,CUST231,Female,23,Clothing,3,50,150,2023,3,28,March,Q1,Sweater
+232,29-03-2023,CUST232,Female,43,Beauty,1,25,25,2023,3,29,March,Q1,Body Lotion
+233,30-03-2023,CUST233,Female,51,Beauty,2,300,600,2023,3,30,March,Q1,Hair Serum
+234,31-03-2023,CUST234,Female,62,Electronics,2,25,50,2023,3,31,April,Q1,USB Cable
+235,01-04-2023,CUST235,Female,23,Electronics,2,500,1000,2023,4,1,April,Q2,Mouse
+236,01-04-2023,CUST236,Female,54,Clothing,1,25,25,2023,4,1,April,Q2,Kurti
+237,01-04-2023,CUST237,Female,50,Beauty,2,500,1000,2023,4,1,April,Q2,Aloe Vera Gel
+238,02-04-2023,CUST238,Female,39,Beauty,1,500,500,2023,4,2,April,Q2,Nail Polish
+239,02-04-2023,CUST239,Male,38,Electronics,3,500,1500,2023,4,2,April,Q2,Charging Cable
+240,02-04-2023,CUST240,Female,23,Beauty,1,300,300,2023,4,2,April,Q2,Nail Polish
+241,02-04-2023,CUST241,Female,23,Electronics,3,25,75,2023,4,2,April,Q2,Bluetooth Receiver
+242,04-04-2023,CUST242,Male,21,Clothing,1,25,25,2023,4,4,April,Q2,Track Pants
+243,04-04-2023,CUST243,Female,47,Electronics,3,300,900,2023,4,4,April,Q2,USB Cable
+244,04-04-2023,CUST244,Male,28,Beauty,2,50,100,2023,4,4,April,Q2,Face Cream
+245,05-04-2023,CUST245,Male,47,Clothing,3,30,90,2023,4,5,April,Q2,Hoodie
+246,05-04-2023,CUST246,Female,48,Electronics,2,25,50,2023,4,5,April,Q2,Memory Card
+247,06-04-2023,CUST247,Male,41,Electronics,2,30,60,2023,4,6,April,Q2,OTG Cable
+248,08-04-2023,CUST248,Male,26,Clothing,3,300,900,2023,4,8,April,Q2,Track Pants
+249,08-04-2023,CUST249,Male,20,Clothing,1,50,50,2023,4,8,April,Q2,Formal Shirt
+250,08-04-2023,CUST250,Male,48,Electronics,1,50,50,2023,4,8,April,Q2,USB Cable
+251,08-04-2023,CUST251,Female,57,Beauty,4,50,200,2023,4,8,April,Q2,Makeup Brush
+252,08-04-2023,CUST252,Male,54,Electronics,1,300,300,2023,4,8,April,Q2,Memory Card
+253,09-04-2023,CUST253,Female,53,Clothing,4,500,2000,2023,4,9,April,Q2,Denim Jacket
+254,09-04-2023,CUST254,Male,41,Electronics,1,500,500,2023,4,9,April,Q2,OTG Cable
+255,09-04-2023,CUST255,Male,48,Clothing,1,30,30,2023,4,9,April,Q2,Jeans
+256,09-04-2023,CUST256,Male,23,Clothing,2,500,1000,2023,4,9,April,Q2,Track Pants
+257,09-04-2023,CUST257,Male,19,Beauty,4,500,2000,2023,4,9,April,Q2,Face Wash
+258,09-04-2023,CUST258,Female,37,Clothing,1,50,50,2023,4,9,April,Q2,Denim Jacket
+259,10-04-2023,CUST259,Female,45,Clothing,4,50,200,2023,4,10,April,Q2,Casual Shirt
+260,10-04-2023,CUST260,Male,28,Beauty,2,30,60,2023,4,10,April,Q2,Makeup Brush
+261,11-04-2023,CUST261,Male,21,Clothing,2,25,50,2023,4,11,April,Q2,Casual Shirt
+262,12-04-2023,CUST262,Female,32,Beauty,4,30,120,2023,4,12,April,Q2,Face Wash
+263,12-04-2023,CUST263,Male,23,Beauty,2,30,60,2023,4,12,April,Q2,Nail Polish
+264,12-04-2023,CUST264,Male,47,Clothing,3,300,900,2023,4,12,April,Q2,Sweater
+265,12-04-2023,CUST265,Male,55,Clothing,3,300,900,2023,4,12,April,Q2,Track Pants
+266,12-04-2023,CUST266,Female,19,Electronics,2,30,60,2023,4,12,April,Q2,Bluetooth Receiver
+267,13-04-2023,CUST267,Female,32,Beauty,3,30,90,2023,4,13,April,Q2,Body Lotion
+268,13-04-2023,CUST268,Female,28,Electronics,1,30,30,2023,4,13,April,Q2,Mobile Stand
+269,13-04-2023,CUST269,Male,25,Clothing,4,500,2000,2023,4,13,April,Q2,Jeans
+270,15-04-2023,CUST270,Male,43,Electronics,1,300,300,2023,4,15,April,Q2,Mouse
+271,15-04-2023,CUST271,Female,62,Beauty,4,30,120,2023,4,15,April,Q2,Face Cream
+272,16-04-2023,CUST272,Female,61,Electronics,2,50,100,2023,4,16,April,Q2,OTG Cable
+273,17-04-2023,CUST273,Female,22,Beauty,1,50,50,2023,4,17,April,Q2,Makeup Brush
+274,18-04-2023,CUST274,Female,23,Clothing,2,500,1000,2023,4,18,April,Q2,Sweater
+275,18-04-2023,CUST275,Male,43,Clothing,2,500,1000,2023,4,18,April,Q2,Track Pants
+276,18-04-2023,CUST276,Female,21,Beauty,4,25,100,2023,4,18,April,Q2,Face Cream
+277,18-04-2023,CUST277,Male,36,Clothing,4,25,100,2023,4,18,April,Q2,Hoodie
+278,19-04-2023,CUST278,Female,37,Clothing,4,25,100,2023,4,19,April,Q2,Denim Jacket
+279,19-04-2023,CUST279,Male,50,Clothing,1,500,500,2023,4,19,April,Q2,Kurti
+280,19-04-2023,CUST280,Female,37,Clothing,3,500,1500,2023,4,19,April,Q2,Formal Shirt
+281,19-04-2023,CUST281,Female,29,Beauty,4,500,2000,2023,4,19,April,Q2,Hair Oil
+282,19-04-2023,CUST282,Female,64,Electronics,4,50,200,2023,4,19,April,Q2,Keyboard
+283,19-04-2023,CUST283,Female,18,Electronics,1,500,500,2023,4,19,April,Q2,Mouse
+284,20-04-2023,CUST284,Male,43,Clothing,4,50,200,2023,4,20,April,Q2,Jeans
+285,20-04-2023,CUST285,Female,31,Electronics,1,25,25,2023,4,20,April,Q2,OTG Cable
+286,20-04-2023,CUST286,Male,55,Electronics,2,25,50,2023,4,20,April,Q2,Mobile Stand
+287,20-04-2023,CUST287,Male,54,Clothing,4,25,100,2023,4,20,April,Q2,Cotton Trousers
+288,20-04-2023,CUST288,Male,28,Clothing,4,30,120,2023,4,20,April,Q2,Jeans
+289,21-04-2023,CUST289,Male,53,Electronics,2,30,60,2023,4,21,April,Q2,Mouse
+290,21-04-2023,CUST290,Female,30,Beauty,2,300,600,2023,4,21,April,Q2,Lip Balm
+291,22-04-2023,CUST291,Male,60,Clothing,2,300,600,2023,4,22,April,Q2,Formal Shirt
+292,22-04-2023,CUST292,Male,20,Beauty,4,300,1200,2023,4,22,April,Q2,Face Cream
+293,22-04-2023,CUST293,Male,50,Electronics,3,30,90,2023,4,22,April,Q2,OTG Cable
+294,23-04-2023,CUST294,Female,23,Clothing,3,30,90,2023,4,23,April,Q2,Formal Shirt
+295,23-04-2023,CUST295,Female,27,Beauty,3,300,900,2023,4,23,April,Q2,Makeup Brush
+296,23-04-2023,CUST296,Female,22,Clothing,4,300,1200,2023,4,23,April,Q2,Casual Shirt
+297,23-04-2023,CUST297,Female,40,Electronics,2,500,1000,2023,4,23,April,Q2,Bluetooth Receiver
+298,23-04-2023,CUST298,Male,27,Beauty,4,300,1200,2023,4,23,April,Q2,Face Cream
+299,23-04-2023,CUST299,Male,61,Electronics,2,500,1000,2023,4,23,April,Q2,Power Adapter
+300,23-04-2023,CUST300,Female,19,Electronics,4,50,200,2023,4,23,April,Q2,Mobile Stand
+301,24-04-2023,CUST301,Male,30,Clothing,4,30,120,2023,4,24,April,Q2,Track Pants
+302,24-04-2023,CUST302,Male,57,Beauty,2,300,600,2023,4,24,April,Q2,Hair Serum
+303,25-04-2023,CUST303,Male,19,Electronics,3,30,90,2023,4,25,April,Q2,Wired Earphones
+304,25-04-2023,CUST304,Female,37,Electronics,2,30,60,2023,4,25,April,Q2,Bluetooth Receiver
+305,25-04-2023,CUST305,Female,18,Beauty,1,30,30,2023,4,25,April,Q2,Face Cream
+306,26-04-2023,CUST306,Male,54,Electronics,1,50,50,2023,4,26,April,Q2,Bluetooth Receiver
+307,26-04-2023,CUST307,Female,26,Electronics,2,25,50,2023,4,26,April,Q2,OTG Cable
+308,26-04-2023,CUST308,Female,34,Beauty,4,300,1200,2023,4,26,April,Q2,Face Cream
+309,27-04-2023,CUST309,Female,26,Beauty,1,25,25,2023,4,27,April,Q2,Aloe Vera Gel
+310,27-04-2023,CUST310,Female,28,Beauty,1,25,25,2023,4,27,April,Q2,Compact Powder
+311,27-04-2023,CUST311,Female,32,Beauty,4,25,100,2023,4,27,April,Q2,Hair Serum
+312,28-04-2023,CUST312,Male,41,Clothing,4,30,120,2023,4,28,April,Q2,Formal Shirt
+313,28-04-2023,CUST313,Female,55,Beauty,3,500,1500,2023,4,28,April,Q2,Face Cream
+314,28-04-2023,CUST314,Male,52,Clothing,4,30,120,2023,4,28,April,Q2,Denim Jacket
+315,29-04-2023,CUST315,Male,47,Clothing,2,30,60,2023,4,29,April,Q2,Cotton Trousers
+316,29-04-2023,CUST316,Female,48,Clothing,2,25,50,2023,4,29,April,Q2,Kurti
+317,29-04-2023,CUST317,Male,22,Electronics,3,30,90,2023,4,29,April,Q2,Wired Earphones
+318,30-04-2023,CUST318,Male,61,Clothing,1,25,25,2023,4,30,April,Q2,Denim Jacket
+319,30-04-2023,CUST319,Male,31,Clothing,1,500,500,2023,4,30,April,Q2,Cotton Trousers
+320,30-04-2023,CUST320,Female,28,Electronics,4,300,1200,2023,4,30,May,Q2,OTG Cable
+386,18-05-2023,CUST386,Female,54,Electronics,2,300,600,2023,5,18,May,Q2,Memory Card
+91,05-02-2023,CUST091,Female,55,Electronics,1,500,500,2023,2,5,May,Q1,Charging Cable
+323,01-05-2023,CUST323,Female,29,Beauty,3,300,900,2023,5,1,May,Q2,Hair Serum
+105,08-02-2023,CUST105,Female,22,Electronics,1,500,500,2023,2,8,May,Q1,Wired Earphones
+322,01-05-2023,CUST322,Male,51,Electronics,1,500,500,2023,5,1,May,Q2,Memory Card
+326,02-05-2023,CUST326,Female,18,Clothing,3,25,75,2023,5,2,May,Q2,Cotton Trousers
+353,08-05-2023,CUST353,Male,31,Electronics,1,500,500,2023,5,8,May,Q2,Wired Earphones
+328,03-05-2023,CUST328,Male,39,Beauty,2,50,100,2023,5,3,May,Q2,Makeup Brush
+355,08-05-2023,CUST355,Female,55,Electronics,1,500,500,2023,5,8,May,Q2,Power Adapter
+330,03-05-2023,CUST330,Female,25,Beauty,4,50,200,2023,5,3,May,Q2,Body Lotion
+147,24-02-2023,CUST147,Male,23,Electronics,1,300,300,2023,2,24,May,Q1,Charging Cable
+121,14-02-2023,CUST121,Female,28,Electronics,4,50,200,2023,2,14,May,Q1,Power Adapter
+132,19-02-2023,CUST132,Male,42,Electronics,4,50,200,2023,2,19,May,Q1,Wired Earphones
+411,25-05-2023,CUST411,Male,62,Electronics,4,50,200,2023,5,25,May,Q2,Mobile Stand
+335,05-05-2023,CUST335,Female,47,Beauty,4,30,120,2023,5,5,May,Q2,Face Cream
+336,05-05-2023,CUST336,Female,52,Beauty,3,50,150,2023,5,5,May,Q2,Makeup Brush
+337,05-05-2023,CUST337,Male,38,Clothing,1,500,500,2023,5,5,May,Q2,Sweater
+338,05-05-2023,CUST338,Male,54,Beauty,2,50,100,2023,5,5,May,Q2,Face Cream
+324,02-05-2023,CUST324,Female,52,Electronics,3,50,150,2023,5,2,May,Q2,Wired Earphones
+340,06-05-2023,CUST340,Female,36,Clothing,4,300,1200,2023,5,6,May,Q2,Hoodie
+341,06-05-2023,CUST341,Male,31,Clothing,4,50,200,2023,5,6,May,Q2,Sweater
+342,06-05-2023,CUST342,Female,43,Clothing,4,500,2000,2023,5,6,May,Q2,T-Shirt
+327,03-05-2023,CUST327,Male,57,Electronics,3,50,150,2023,5,3,May,Q2,Power Adapter
+344,06-05-2023,CUST344,Female,42,Beauty,1,30,30,2023,5,6,May,Q2,Nail Polish
+92,05-02-2023,CUST092,Female,51,Electronics,4,30,120,2023,2,5,May,Q1,Bluetooth Receiver
+346,07-05-2023,CUST346,Male,59,Clothing,2,500,1000,2023,5,7,May,Q2,Kurti
+122,14-02-2023,CUST122,Male,64,Electronics,4,30,120,2023,2,14,May,Q1,Mouse
+150,25-02-2023,CUST150,Female,58,Electronics,4,30,120,2023,2,25,May,Q1,Wired Earphones
+349,07-05-2023,CUST349,Female,57,Beauty,1,50,50,2023,5,7,May,Q2,Makeup Brush
+350,08-05-2023,CUST350,Male,25,Beauty,3,25,75,2023,5,8,May,Q2,Makeup Brush
+351,08-05-2023,CUST351,Female,56,Clothing,3,30,90,2023,5,8,May,Q2,Cotton Trousers
+425,31-05-2023,CUST425,Female,55,Electronics,4,30,120,2023,5,31,May,Q2,Memory Card
+83,03-02-2023,CUST083,Male,54,Electronics,2,50,100,2023,2,3,May,Q1,Charging Cable
+354,08-05-2023,CUST354,Female,49,Beauty,4,50,200,2023,5,8,May,Q2,Hair Serum
+329,03-05-2023,CUST329,Female,46,Electronics,4,25,100,2023,5,3,May,Q2,Memory Card
+390,20-05-2023,CUST390,Male,39,Electronics,2,50,100,2023,5,20,May,Q2,Keyboard
+84,03-02-2023,CUST084,Female,38,Electronics,3,30,90,2023,2,3,May,Q1,Memory Card
+358,09-05-2023,CUST358,Female,32,Beauty,1,300,300,2023,5,9,May,Q2,Hair Serum
+359,10-05-2023,CUST359,Male,50,Clothing,1,50,50,2023,5,10,May,Q2,Casual Shirt
+360,10-05-2023,CUST360,Male,42,Clothing,4,25,100,2023,5,10,May,Q2,Jeans
+331,03-05-2023,CUST331,Male,28,Electronics,3,30,90,2023,5,3,May,Q2,Memory Card
+362,12-05-2023,CUST362,Male,50,Clothing,1,25,25,2023,5,12,May,Q2,Cotton Trousers
+363,13-05-2023,CUST363,Male,64,Beauty,1,25,25,2023,5,13,May,Q2,Lip Balm
+364,13-05-2023,CUST364,Female,19,Beauty,1,500,500,2023,5,13,May,Q2,Aloe Vera Gel
+365,14-05-2023,CUST365,Male,31,Clothing,1,300,300,2023,5,14,May,Q2,Track Pants
+366,14-05-2023,CUST366,Male,57,Clothing,2,50,100,2023,5,14,May,Q2,Sweater
+357,09-05-2023,CUST357,Female,40,Electronics,3,25,75,2023,5,9,May,Q2,USB Cable
+368,15-05-2023,CUST368,Female,56,Clothing,4,300,1200,2023,5,15,May,Q2,Track Pants
+123,16-02-2023,CUST123,Female,40,Electronics,2,30,60,2023,2,16,May,Q1,Wired Earphones
+370,15-05-2023,CUST370,Male,23,Electronics,2,30,60,2023,5,15,May,Q2,Mouse
+371,16-05-2023,CUST371,Female,20,Beauty,1,25,25,2023,5,16,May,Q2,Aloe Vera Gel
+372,16-05-2023,CUST372,Female,24,Beauty,3,500,1500,2023,5,16,May,Q2,Compact Powder
+373,16-05-2023,CUST373,Female,25,Beauty,2,300,600,2023,5,16,May,Q2,Nail Polish
+374,16-05-2023,CUST374,Female,59,Beauty,3,25,75,2023,5,16,May,Q2,Compact Powder
+375,16-05-2023,CUST375,Male,32,Clothing,1,50,50,2023,5,16,May,Q2,Track Pants
+376,16-05-2023,CUST376,Female,64,Beauty,1,30,30,2023,5,16,May,Q2,Hair Serum
+377,16-05-2023,CUST377,Female,46,Clothing,4,50,200,2023,5,16,May,Q2,Jeans
+378,16-05-2023,CUST378,Male,50,Beauty,1,300,300,2023,5,16,May,Q2,Nail Polish
+379,16-05-2023,CUST379,Female,47,Clothing,1,25,25,2023,5,16,May,Q2,Kurti
+81,02-02-2023,CUST081,Male,40,Electronics,1,50,50,2023,2,2,May,Q1,Power Adapter
+381,16-05-2023,CUST381,Female,44,Clothing,4,25,100,2023,5,16,May,Q2,Denim Jacket
+382,17-05-2023,CUST382,Female,53,Clothing,2,500,1000,2023,5,17,May,Q2,Hoodie
+383,17-05-2023,CUST383,Female,46,Beauty,3,30,90,2023,5,17,May,Q2,Hair Oil
+384,17-05-2023,CUST384,Male,55,Clothing,1,500,500,2023,5,17,May,Q2,T-Shirt
+113,11-02-2023,CUST113,Female,41,Electronics,2,25,50,2023,2,11,May,Q1,Mobile Stand
+134,20-02-2023,CUST134,Male,49,Electronics,1,50,50,2023,2,20,May,Q1,Memory Card
+387,19-05-2023,CUST387,Male,44,Beauty,1,30,30,2023,5,19,May,Q2,Hair Serum
+141,22-02-2023,CUST141,Female,22,Electronics,1,50,50,2023,2,22,May,Q1,Mouse
+389,19-05-2023,CUST389,Male,21,Clothing,2,25,50,2023,5,19,May,Q2,Kurti
+321,01-05-2023,CUST321,Female,26,Electronics,2,25,50,2023,5,1,May,Q2,Keyboard
+391,20-05-2023,CUST391,Male,19,Beauty,2,25,50,2023,5,20,May,Q2,Nail Polish
+392,20-05-2023,CUST392,Male,27,Clothing,2,300,600,2023,5,20,May,Q2,Hoodie
+393,21-05-2023,CUST393,Female,22,Beauty,2,500,1000,2023,5,21,May,Q2,Body Lotion
+394,21-05-2023,CUST394,Female,27,Clothing,1,500,500,2023,5,21,May,Q2,Sweater
+325,02-05-2023,CUST325,Female,52,Electronics,2,25,50,2023,5,2,May,Q2,OTG Cable
+396,22-05-2023,CUST396,Female,55,Beauty,1,30,30,2023,5,22,May,Q2,Makeup Brush
+397,22-05-2023,CUST397,Female,30,Beauty,1,25,25,2023,5,22,May,Q2,Face Wash
+398,22-05-2023,CUST398,Female,48,Clothing,2,300,600,2023,5,22,May,Q2,T-Shirt
+399,22-05-2023,CUST399,Female,64,Beauty,2,30,60,2023,5,22,May,Q2,Face Cream
+400,23-05-2023,CUST400,Male,53,Clothing,4,50,200,2023,5,23,May,Q2,Formal Shirt
+401,23-05-2023,CUST401,Female,62,Clothing,1,300,300,2023,5,23,May,Q2,T-Shirt
+402,23-05-2023,CUST402,Female,41,Clothing,2,300,600,2023,5,23,May,Q2,Sweater
+403,23-05-2023,CUST403,Male,32,Clothing,2,300,600,2023,5,23,May,Q2,Kurti
+339,05-05-2023,CUST339,Female,22,Electronics,2,25,50,2023,5,5,May,Q2,Mouse
+405,23-05-2023,CUST405,Female,25,Clothing,4,300,1200,2023,5,23,May,Q2,Denim Jacket
+406,23-05-2023,CUST406,Female,22,Beauty,4,25,100,2023,5,23,May,Q2,Aloe Vera Gel
+343,06-05-2023,CUST343,Male,21,Electronics,2,25,50,2023,5,6,May,Q2,Mobile Stand
+408,23-05-2023,CUST408,Female,64,Beauty,1,500,500,2023,5,23,May,Q2,Hair Oil
+367,14-05-2023,CUST367,Female,57,Electronics,1,50,50,2023,5,14,May,Q2,Mouse
+410,25-05-2023,CUST410,Female,29,Clothing,2,50,100,2023,5,25,May,Q2,Jeans
+90,05-02-2023,CUST090,Female,51,Electronics,1,30,30,2023,2,5,May,Q1,Wired Earphones
+100,07-02-2023,CUST100,Male,41,Electronics,1,30,30,2023,2,7,May,Q1,Charging Cable
+413,26-05-2023,CUST413,Female,44,Beauty,3,25,75,2023,5,26,May,Q2,Face Cream
+414,26-05-2023,CUST414,Male,48,Beauty,4,25,100,2023,5,26,May,Q2,Compact Powder
+415,26-05-2023,CUST415,Male,53,Clothing,2,30,60,2023,5,26,May,Q2,Hoodie
+140,22-02-2023,CUST140,Male,38,Electronics,1,30,30,2023,2,22,May,Q1,OTG Cable
+345,07-05-2023,CUST345,Male,62,Electronics,1,30,30,2023,5,7,May,Q2,Charging Cable
+347,07-05-2023,CUST347,Male,42,Electronics,1,25,25,2023,5,7,May,Q2,Mouse
+419,28-05-2023,CUST419,Female,44,Clothing,3,30,90,2023,5,28,May,Q2,Sweater
+420,29-05-2023,CUST420,Female,22,Clothing,4,500,2000,2023,5,29,May,Q2,Casual Shirt
+421,30-05-2023,CUST421,Female,37,Clothing,3,500,1500,2023,5,30,May,Q2,Cotton Trousers
+422,30-05-2023,CUST422,Female,28,Clothing,3,30,90,2023,5,30,May,Q2,T-Shirt
+423,31-05-2023,CUST423,Female,27,Clothing,1,25,25,2023,5,31,May,Q2,Hoodie
+424,31-05-2023,CUST424,Male,57,Beauty,4,300,1200,2023,5,31,May,Q2,Aloe Vera Gel
+388,19-05-2023,CUST388,Male,50,Electronics,1,25,25,2023,5,19,June,Q2,Wired Earphones
+426,01-06-2023,CUST426,Male,23,Electronics,3,50,150,2023,6,1,June,Q2,Memory Card
+427,01-06-2023,CUST427,Male,25,Electronics,1,25,25,2023,6,1,June,Q2,Bluetooth Receiver
+428,01-06-2023,CUST428,Female,40,Electronics,4,50,200,2023,6,1,June,Q2,Charging Cable
+429,02-06-2023,CUST429,Male,64,Electronics,2,25,50,2023,6,2,June,Q2,Power Adapter
+430,02-06-2023,CUST430,Female,43,Electronics,3,300,900,2023,6,2,June,Q2,Mobile Stand
+431,02-06-2023,CUST431,Male,63,Electronics,4,300,1200,2023,6,2,June,Q2,Wired Earphones
+432,03-06-2023,CUST432,Female,60,Electronics,2,500,1000,2023,6,3,June,Q2,OTG Cable
+433,03-06-2023,CUST433,Male,29,Beauty,4,50,200,2023,6,3,June,Q2,Face Wash
+434,03-06-2023,CUST434,Female,43,Electronics,2,25,50,2023,6,3,June,Q2,Mobile Stand
+435,04-06-2023,CUST435,Female,30,Beauty,3,300,900,2023,6,4,June,Q2,Lip Balm
+436,04-06-2023,CUST436,Female,57,Clothing,4,30,120,2023,6,4,June,Q2,Track Pants
+437,04-06-2023,CUST437,Female,35,Electronics,4,300,1200,2023,6,4,June,Q2,Wired Earphones
+438,04-06-2023,CUST438,Female,42,Clothing,1,30,30,2023,6,4,June,Q2,Formal Shirt
+439,05-06-2023,CUST439,Male,50,Clothing,3,25,75,2023,6,5,June,Q2,Cotton Trousers
+440,05-06-2023,CUST440,Male,64,Clothing,2,300,600,2023,6,5,June,Q2,Jeans
+441,06-06-2023,CUST441,Male,57,Beauty,4,300,1200,2023,6,6,June,Q2,Hair Oil
+442,06-06-2023,CUST442,Female,60,Clothing,4,25,100,2023,6,6,June,Q2,Casual Shirt
+443,06-06-2023,CUST443,Male,29,Clothing,2,300,600,2023,6,6,June,Q2,Jeans
+444,06-06-2023,CUST444,Female,61,Clothing,3,30,90,2023,6,6,June,Q2,Track Pants
+445,07-06-2023,CUST445,Female,53,Electronics,1,300,300,2023,6,7,June,Q2,OTG Cable
+446,07-06-2023,CUST446,Male,21,Electronics,1,50,50,2023,6,7,June,Q2,OTG Cable
+447,08-06-2023,CUST447,Male,22,Beauty,4,500,2000,2023,6,8,June,Q2,Hair Serum
+448,08-06-2023,CUST448,Female,54,Beauty,2,30,60,2023,6,8,June,Q2,Compact Powder
+449,09-06-2023,CUST449,Male,25,Electronics,4,50,200,2023,6,9,June,Q2,USB Cable
+450,09-06-2023,CUST450,Female,59,Beauty,2,25,50,2023,6,9,June,Q2,Aloe Vera Gel
+451,09-06-2023,CUST451,Female,45,Electronics,1,30,30,2023,6,9,June,Q2,USB Cable
+452,10-06-2023,CUST452,Female,48,Clothing,3,500,1500,2023,6,10,June,Q2,Formal Shirt
+453,10-06-2023,CUST453,Female,26,Clothing,2,500,1000,2023,6,10,June,Q2,Kurti
+454,10-06-2023,CUST454,Female,46,Beauty,1,25,25,2023,6,10,June,Q2,Hair Oil
+455,10-06-2023,CUST455,Male,31,Electronics,4,25,100,2023,6,10,June,Q2,Wired Earphones
+456,11-06-2023,CUST456,Male,57,Electronics,2,30,60,2023,6,11,June,Q2,Mouse
+457,11-06-2023,CUST457,Female,58,Beauty,3,300,900,2023,6,11,June,Q2,Lip Balm
+458,11-06-2023,CUST458,Female,39,Electronics,4,25,100,2023,6,11,June,Q2,Wired Earphones
+459,11-06-2023,CUST459,Male,28,Clothing,4,300,1200,2023,6,11,June,Q2,Formal Shirt
+460,11-06-2023,CUST460,Male,40,Beauty,1,50,50,2023,6,11,June,Q2,Hair Oil
+461,12-06-2023,CUST461,Female,18,Beauty,2,500,1000,2023,6,12,June,Q2,Compact Powder
+462,13-06-2023,CUST462,Male,63,Electronics,4,300,1200,2023,6,13,June,Q2,OTG Cable
+463,14-06-2023,CUST463,Female,54,Beauty,3,500,1500,2023,6,14,June,Q2,Lip Balm
+464,15-06-2023,CUST464,Male,38,Electronics,2,300,600,2023,6,15,June,Q2,Mouse
+465,15-06-2023,CUST465,Female,43,Electronics,3,50,150,2023,6,15,June,Q2,USB Cable
+466,16-06-2023,CUST466,Male,63,Electronics,4,25,100,2023,6,16,June,Q2,Power Adapter
+467,16-06-2023,CUST467,Female,53,Electronics,3,50,150,2023,6,16,June,Q2,Mouse
+468,17-06-2023,CUST468,Male,40,Electronics,1,25,25,2023,6,17,June,Q2,Memory Card
+469,17-06-2023,CUST469,Male,18,Beauty,3,25,75,2023,6,17,June,Q2,Body Lotion
+470,17-06-2023,CUST470,Female,57,Clothing,2,500,1000,2023,6,17,June,Q2,Hoodie
+471,18-06-2023,CUST471,Male,32,Clothing,3,50,150,2023,6,18,June,Q2,Sweater
+472,19-06-2023,CUST472,Female,38,Beauty,3,300,900,2023,6,19,June,Q2,Nail Polish
+473,19-06-2023,CUST473,Male,64,Beauty,1,50,50,2023,6,19,June,Q2,Compact Powder
+474,19-06-2023,CUST474,Female,26,Clothing,3,500,1500,2023,6,19,June,Q2,Casual Shirt
+475,19-06-2023,CUST475,Male,26,Clothing,3,25,75,2023,6,19,June,Q2,Hoodie
+476,19-06-2023,CUST476,Female,27,Clothing,4,500,2000,2023,6,19,June,Q2,Cotton Trousers
+477,20-06-2023,CUST477,Male,43,Clothing,4,30,120,2023,6,20,June,Q2,Denim Jacket
+478,20-06-2023,CUST478,Female,58,Clothing,2,30,60,2023,6,20,June,Q2,Cotton Trousers
+479,21-06-2023,CUST479,Male,52,Electronics,4,300,1200,2023,6,21,June,Q2,Memory Card
+480,21-06-2023,CUST480,Female,42,Beauty,4,500,2000,2023,6,21,June,Q2,Hair Serum
+481,22-06-2023,CUST481,Female,43,Electronics,4,300,1200,2023,6,22,June,Q2,Wired Earphones
+482,22-06-2023,CUST482,Female,28,Clothing,4,300,1200,2023,6,22,June,Q2,Formal Shirt
+483,22-06-2023,CUST483,Male,55,Clothing,1,30,30,2023,6,22,June,Q2,Casual Shirt
+484,22-06-2023,CUST484,Female,19,Clothing,4,300,1200,2023,6,22,June,Q2,Jeans
+485,23-06-2023,CUST485,Male,24,Electronics,1,30,30,2023,6,23,June,Q2,Power Adapter
+486,23-06-2023,CUST486,Female,35,Electronics,1,25,25,2023,6,23,June,Q2,Bluetooth Receiver
+487,24-06-2023,CUST487,Male,44,Clothing,4,500,2000,2023,6,24,June,Q2,Casual Shirt
+488,24-06-2023,CUST488,Female,51,Electronics,3,300,900,2023,6,24,June,Q2,Charging Cable
+489,24-06-2023,CUST489,Male,44,Electronics,1,30,30,2023,6,24,June,Q2,USB Cable
+490,24-06-2023,CUST490,Male,34,Clothing,3,50,150,2023,6,24,June,Q2,Casual Shirt
+491,24-06-2023,CUST491,Female,60,Electronics,3,300,900,2023,6,24,June,Q2,Bluetooth Receiver
+492,25-06-2023,CUST492,Male,61,Beauty,4,25,100,2023,6,25,June,Q2,Hair Oil
+493,26-06-2023,CUST493,Male,41,Beauty,2,25,50,2023,6,26,June,Q2,Lip Balm
+494,26-06-2023,CUST494,Female,42,Beauty,4,50,200,2023,6,26,June,Q2,Face Wash
+495,26-06-2023,CUST495,Male,24,Beauty,2,30,60,2023,6,26,June,Q2,Face Wash
+496,27-06-2023,CUST496,Male,23,Clothing,2,300,600,2023,6,27,June,Q2,Sweater
+497,28-06-2023,CUST497,Male,41,Clothing,4,30,120,2023,6,28,June,Q2,Hoodie
+498,29-06-2023,CUST498,Female,50,Clothing,4,25,100,2023,6,29,June,Q2,Kurti
+499,29-06-2023,CUST499,Male,46,Beauty,2,30,60,2023,6,29,June,Q2,Face Wash
+500,29-06-2023,CUST500,Female,60,Beauty,4,25,100,2023,6,29,June,Q2,Face Wash
+501,30-06-2023,CUST501,Male,39,Electronics,2,30,60,2023,6,30,June,Q2,Power Adapter
+502,30-06-2023,CUST502,Male,43,Electronics,3,50,150,2023,6,30,July,Q2,OTG Cable
+503,01-07-2023,CUST503,Male,45,Beauty,4,500,2000,2023,7,1,July,Q3,Makeup Brush
+504,01-07-2023,CUST504,Female,38,Beauty,3,50,150,2023,7,1,July,Q3,Compact Powder
+505,01-07-2023,CUST505,Male,24,Beauty,1,50,50,2023,7,1,July,Q3,Makeup Brush
+506,01-07-2023,CUST506,Male,34,Beauty,3,500,1500,2023,7,1,July,Q3,Hair Oil
+507,03-07-2023,CUST507,Female,37,Electronics,3,500,1500,2023,7,3,July,Q3,Bluetooth Receiver
+508,03-07-2023,CUST508,Male,58,Beauty,2,300,600,2023,7,3,July,Q3,Hair Serum
+509,04-07-2023,CUST509,Female,37,Electronics,3,300,900,2023,7,4,July,Q3,Power Adapter
+510,05-07-2023,CUST510,Female,39,Beauty,4,50,200,2023,7,5,July,Q3,Compact Powder
+511,05-07-2023,CUST511,Male,45,Beauty,2,50,100,2023,7,5,July,Q3,Makeup Brush
+512,05-07-2023,CUST512,Female,57,Beauty,1,25,25,2023,7,5,July,Q3,Face Wash
+513,05-07-2023,CUST513,Male,24,Electronics,4,25,100,2023,7,5,July,Q3,Keyboard
+514,06-07-2023,CUST514,Female,18,Electronics,1,300,300,2023,7,6,July,Q3,USB Cable
+515,06-07-2023,CUST515,Female,49,Clothing,3,300,900,2023,7,6,July,Q3,Track Pants
+516,06-07-2023,CUST516,Male,30,Beauty,4,25,100,2023,7,6,July,Q3,Hair Oil
+517,08-07-2023,CUST517,Female,47,Clothing,4,25,100,2023,7,8,July,Q3,Casual Shirt
+518,08-07-2023,CUST518,Female,40,Clothing,1,30,30,2023,7,8,July,Q3,T-Shirt
+519,09-07-2023,CUST519,Female,36,Electronics,4,30,120,2023,7,9,July,Q3,Mobile Stand
+520,09-07-2023,CUST520,Female,49,Electronics,4,25,100,2023,7,9,July,Q3,Bluetooth Receiver
+521,09-07-2023,CUST521,Female,47,Clothing,4,30,120,2023,7,9,July,Q3,Sweater
+522,09-07-2023,CUST522,Male,46,Beauty,3,500,1500,2023,7,9,July,Q3,Nail Polish
+523,11-07-2023,CUST523,Female,62,Electronics,1,300,300,2023,7,11,July,Q3,Power Adapter
+524,11-07-2023,CUST524,Male,46,Beauty,4,300,1200,2023,7,11,July,Q3,Face Cream
+525,12-07-2023,CUST525,Female,47,Beauty,2,25,50,2023,7,12,July,Q3,Face Cream
+526,13-07-2023,CUST526,Male,33,Clothing,2,50,100,2023,7,13,July,Q3,Sweater
+527,14-07-2023,CUST527,Male,57,Clothing,2,25,50,2023,7,14,July,Q3,Sweater
+528,14-07-2023,CUST528,Female,36,Clothing,2,30,60,2023,7,14,July,Q3,Casual Shirt
+529,14-07-2023,CUST529,Female,35,Clothing,3,50,150,2023,7,14,July,Q3,Sweater
+530,14-07-2023,CUST530,Female,18,Electronics,4,30,120,2023,7,14,July,Q3,Wired Earphones
+531,14-07-2023,CUST531,Male,31,Electronics,1,500,500,2023,7,14,July,Q3,Charging Cable
+532,14-07-2023,CUST532,Female,64,Clothing,4,30,120,2023,7,14,July,Q3,Sweater
+533,14-07-2023,CUST533,Male,19,Electronics,3,500,1500,2023,7,14,July,Q3,Memory Card
+534,14-07-2023,CUST534,Male,45,Clothing,2,500,1000,2023,7,14,July,Q3,Formal Shirt
+535,14-07-2023,CUST535,Male,47,Beauty,3,30,90,2023,7,14,July,Q3,Makeup Brush
+536,14-07-2023,CUST536,Female,55,Beauty,4,30,120,2023,7,14,July,Q3,Compact Powder
+537,15-07-2023,CUST537,Female,21,Beauty,1,500,500,2023,7,15,July,Q3,Hair Serum
+538,15-07-2023,CUST538,Male,18,Clothing,3,50,150,2023,7,15,July,Q3,Sweater
+539,16-07-2023,CUST539,Male,25,Beauty,1,500,500,2023,7,16,July,Q3,Face Wash
+540,16-07-2023,CUST540,Female,46,Electronics,3,300,900,2023,7,16,July,Q3,Mouse
+541,17-07-2023,CUST541,Male,56,Beauty,1,500,500,2023,7,17,July,Q3,Aloe Vera Gel
+542,17-07-2023,CUST542,Female,20,Beauty,1,50,50,2023,7,17,July,Q3,Aloe Vera Gel
+543,19-07-2023,CUST543,Male,49,Beauty,2,300,600,2023,7,19,July,Q3,Face Wash
+544,19-07-2023,CUST544,Female,27,Electronics,1,25,25,2023,7,19,July,Q3,Mobile Stand
+545,19-07-2023,CUST545,Male,27,Clothing,2,25,50,2023,7,19,July,Q3,T-Shirt
+546,19-07-2023,CUST546,Female,36,Electronics,4,50,200,2023,7,19,July,Q3,Keyboard
+547,21-07-2023,CUST547,Male,63,Clothing,4,500,2000,2023,7,21,July,Q3,Cotton Trousers
+548,22-07-2023,CUST548,Female,51,Clothing,2,30,60,2023,7,22,July,Q3,Denim Jacket
+549,22-07-2023,CUST549,Female,50,Beauty,2,50,100,2023,7,22,July,Q3,Aloe Vera Gel
+550,23-07-2023,CUST550,Male,40,Clothing,3,300,900,2023,7,23,July,Q3,Kurti
+551,24-07-2023,CUST551,Male,45,Electronics,3,300,900,2023,7,24,July,Q3,Keyboard
+552,24-07-2023,CUST552,Female,49,Electronics,3,25,75,2023,7,24,July,Q3,OTG Cable
+553,24-07-2023,CUST553,Male,24,Clothing,4,300,1200,2023,7,24,July,Q3,Formal Shirt
+554,24-07-2023,CUST554,Female,46,Beauty,3,50,150,2023,7,24,July,Q3,Hair Oil
+555,24-07-2023,CUST555,Male,25,Beauty,1,300,300,2023,7,24,July,Q3,Lip Balm
+556,25-07-2023,CUST556,Female,18,Electronics,1,50,50,2023,7,25,July,Q3,Mobile Stand
+557,25-07-2023,CUST557,Female,20,Beauty,3,30,90,2023,7,25,July,Q3,Makeup Brush
+558,25-07-2023,CUST558,Female,41,Clothing,1,25,25,2023,7,25,July,Q3,Denim Jacket
+559,26-07-2023,CUST559,Female,40,Clothing,4,300,1200,2023,7,26,July,Q3,Formal Shirt
+560,26-07-2023,CUST560,Female,25,Electronics,1,50,50,2023,7,26,July,Q3,Mouse
+561,26-07-2023,CUST561,Female,64,Clothing,4,500,2000,2023,7,26,July,Q3,Formal Shirt
+562,27-07-2023,CUST562,Male,54,Electronics,2,25,50,2023,7,27,July,Q3,OTG Cable
+563,27-07-2023,CUST563,Male,20,Clothing,2,30,60,2023,7,27,July,Q3,Kurti
+564,27-07-2023,CUST564,Male,50,Electronics,2,50,100,2023,7,27,July,Q3,Power Adapter
+565,28-07-2023,CUST565,Female,45,Beauty,2,30,60,2023,7,28,July,Q3,Body Lotion
+566,28-07-2023,CUST566,Female,64,Clothing,1,30,30,2023,7,28,July,Q3,Cotton Trousers
+567,28-07-2023,CUST567,Female,25,Clothing,3,300,900,2023,7,28,July,Q3,Hoodie
+568,28-07-2023,CUST568,Female,51,Electronics,1,300,300,2023,7,28,July,Q3,Mobile Stand
+569,28-07-2023,CUST569,Male,52,Electronics,4,50,200,2023,7,28,July,Q3,Keyboard
+570,29-07-2023,CUST570,Male,49,Clothing,1,500,500,2023,7,29,July,Q3,Casual Shirt
+571,29-07-2023,CUST571,Female,41,Electronics,1,50,50,2023,7,29,July,Q3,OTG Cable
+572,30-07-2023,CUST572,Male,31,Clothing,4,500,2000,2023,7,30,July,Q3,Cotton Trousers
+573,30-07-2023,CUST573,Male,49,Beauty,2,30,60,2023,7,30,July,Q3,Face Cream
+574,31-07-2023,CUST574,Female,63,Electronics,2,25,50,2023,7,31,August,Q3,OTG Cable
+575,01-08-2023,CUST575,Male,60,Clothing,2,50,100,2023,8,1,August,Q3,Casual Shirt
+576,01-08-2023,CUST576,Female,33,Beauty,3,50,150,2023,8,1,August,Q3,Aloe Vera Gel
+577,01-08-2023,CUST577,Male,21,Beauty,4,500,2000,2023,8,1,August,Q3,Lip Balm
+578,02-08-2023,CUST578,Female,54,Clothing,4,30,120,2023,8,2,August,Q3,Kurti
+579,03-08-2023,CUST579,Female,38,Electronics,1,30,30,2023,8,3,August,Q3,Memory Card
+580,03-08-2023,CUST580,Female,31,Clothing,3,500,1500,2023,8,3,August,Q3,Hoodie
+581,03-08-2023,CUST581,Female,48,Beauty,2,30,60,2023,8,3,August,Q3,Face Wash
+582,04-08-2023,CUST582,Male,35,Clothing,3,300,900,2023,8,4,August,Q3,Denim Jacket
+583,04-08-2023,CUST583,Female,24,Electronics,4,25,100,2023,8,4,August,Q3,Bluetooth Receiver
+584,04-08-2023,CUST584,Female,27,Beauty,4,50,200,2023,8,4,August,Q3,Hair Serum
+585,04-08-2023,CUST585,Female,24,Clothing,1,25,25,2023,8,4,August,Q3,Casual Shirt
+586,05-08-2023,CUST586,Male,50,Electronics,1,50,50,2023,8,5,August,Q3,Wired Earphones
+587,05-08-2023,CUST587,Female,40,Beauty,4,300,1200,2023,8,5,August,Q3,Hair Oil
+588,05-08-2023,CUST588,Male,38,Electronics,2,30,60,2023,8,5,August,Q3,Charging Cable
+589,05-08-2023,CUST589,Female,36,Beauty,2,500,1000,2023,8,5,August,Q3,Makeup Brush
+590,05-08-2023,CUST590,Male,36,Clothing,3,300,900,2023,8,5,August,Q3,Formal Shirt
+591,05-08-2023,CUST591,Male,53,Electronics,4,25,100,2023,8,5,August,Q3,Keyboard
+592,05-08-2023,CUST592,Female,46,Beauty,4,500,2000,2023,8,5,August,Q3,Nail Polish
+593,05-08-2023,CUST593,Male,35,Electronics,2,30,60,2023,8,5,August,Q3,Power Adapter
+594,06-08-2023,CUST594,Female,19,Electronics,2,300,600,2023,8,6,August,Q3,Power Adapter
+595,06-08-2023,CUST595,Female,18,Clothing,4,500,2000,2023,8,6,August,Q3,Jeans
+596,07-08-2023,CUST596,Female,64,Electronics,1,300,300,2023,8,7,August,Q3,Bluetooth Receiver
+597,07-08-2023,CUST597,Male,22,Beauty,4,300,1200,2023,8,7,August,Q3,Face Wash
+598,08-08-2023,CUST598,Male,37,Beauty,4,30,120,2023,8,8,August,Q3,Nail Polish
+599,08-08-2023,CUST599,Female,28,Beauty,2,50,100,2023,8,8,August,Q3,Aloe Vera Gel
+600,08-08-2023,CUST600,Female,59,Beauty,2,500,1000,2023,8,8,August,Q3,Hair Oil
+601,08-08-2023,CUST601,Male,19,Clothing,1,30,30,2023,8,8,August,Q3,T-Shirt
+602,09-08-2023,CUST602,Female,20,Electronics,1,300,300,2023,8,9,August,Q3,Mobile Stand
+603,09-08-2023,CUST603,Female,40,Clothing,3,30,90,2023,8,9,August,Q3,T-Shirt
+604,09-08-2023,CUST604,Female,29,Electronics,4,50,200,2023,8,9,August,Q3,OTG Cable
+605,09-08-2023,CUST605,Male,37,Electronics,2,500,1000,2023,8,9,August,Q3,Power Adapter
+606,10-08-2023,CUST606,Male,22,Electronics,1,50,50,2023,8,10,August,Q3,USB Cable
+607,11-08-2023,CUST607,Male,54,Clothing,3,25,75,2023,8,11,August,Q3,Denim Jacket
+608,11-08-2023,CUST608,Female,55,Electronics,3,500,1500,2023,8,11,August,Q3,Power Adapter
+609,11-08-2023,CUST609,Female,47,Clothing,2,50,100,2023,8,11,August,Q3,T-Shirt
+610,12-08-2023,CUST610,Female,26,Beauty,2,300,600,2023,8,12,August,Q3,Aloe Vera Gel
+611,12-08-2023,CUST611,Male,51,Beauty,3,500,1500,2023,8,12,August,Q3,Face Wash
+612,12-08-2023,CUST612,Female,61,Electronics,1,500,500,2023,8,12,August,Q3,Mouse
+613,12-08-2023,CUST613,Female,52,Clothing,3,30,90,2023,8,12,August,Q3,Jeans
+614,13-08-2023,CUST614,Female,39,Beauty,4,300,1200,2023,8,13,August,Q3,Lip Balm
+615,13-08-2023,CUST615,Female,61,Clothing,4,25,100,2023,8,13,August,Q3,Sweater
+616,14-08-2023,CUST616,Male,41,Clothing,2,50,100,2023,8,14,August,Q3,Hoodie
+617,14-08-2023,CUST617,Male,34,Electronics,1,30,30,2023,8,14,August,Q3,Bluetooth Receiver
+618,15-08-2023,CUST618,Female,27,Beauty,1,50,50,2023,8,15,August,Q3,Aloe Vera Gel
+619,15-08-2023,CUST619,Male,47,Electronics,4,25,100,2023,8,15,August,Q3,Bluetooth Receiver
+620,15-08-2023,CUST620,Male,63,Electronics,3,25,75,2023,8,15,August,Q3,Power Adapter
+621,15-08-2023,CUST621,Female,40,Beauty,2,500,1000,2023,8,15,August,Q3,Lip Balm
+622,15-08-2023,CUST622,Female,49,Beauty,3,25,75,2023,8,15,August,Q3,Hair Serum
+623,15-08-2023,CUST623,Male,34,Clothing,3,50,150,2023,8,15,August,Q3,Track Pants
+624,17-08-2023,CUST624,Female,34,Beauty,3,300,900,2023,8,17,August,Q3,Aloe Vera Gel
+625,18-08-2023,CUST625,Male,31,Clothing,1,300,300,2023,8,18,August,Q3,Casual Shirt
+626,18-08-2023,CUST626,Female,26,Clothing,4,500,2000,2023,8,18,August,Q3,Formal Shirt
+627,18-08-2023,CUST627,Male,57,Clothing,1,50,50,2023,8,18,August,Q3,T-Shirt
+628,19-08-2023,CUST628,Female,19,Beauty,4,50,200,2023,8,19,August,Q3,Lip Balm
+629,19-08-2023,CUST629,Male,62,Electronics,2,25,50,2023,8,19,August,Q3,USB Cable
+630,19-08-2023,CUST630,Male,42,Clothing,2,50,100,2023,8,19,August,Q3,Hoodie
+631,19-08-2023,CUST631,Male,56,Electronics,3,30,90,2023,8,19,August,Q3,OTG Cable
+632,20-08-2023,CUST632,Female,26,Electronics,4,25,100,2023,8,20,August,Q3,Wired Earphones
+633,21-08-2023,CUST633,Male,39,Beauty,4,30,120,2023,8,21,August,Q3,Face Cream
+634,21-08-2023,CUST634,Male,60,Electronics,4,500,2000,2023,8,21,August,Q3,Wired Earphones
+635,21-08-2023,CUST635,Female,63,Electronics,3,300,900,2023,8,21,August,Q3,Mouse
+636,21-08-2023,CUST636,Female,21,Beauty,3,500,1500,2023,8,21,August,Q3,Makeup Brush
+637,21-08-2023,CUST637,Male,43,Clothing,2,300,600,2023,8,21,August,Q3,Hoodie
+638,21-08-2023,CUST638,Male,46,Electronics,1,500,500,2023,8,21,August,Q3,Bluetooth Receiver
+639,22-08-2023,CUST639,Female,62,Beauty,4,50,200,2023,8,22,August,Q3,Aloe Vera Gel
+640,22-08-2023,CUST640,Female,51,Electronics,4,30,120,2023,8,22,August,Q3,Mouse
+641,23-08-2023,CUST641,Female,40,Electronics,1,300,300,2023,8,23,August,Q3,USB Cable
+642,23-08-2023,CUST642,Female,54,Clothing,4,25,100,2023,8,23,August,Q3,Sweater
+643,23-08-2023,CUST643,Female,28,Electronics,3,30,90,2023,8,23,August,Q3,USB Cable
+644,24-08-2023,CUST644,Male,23,Beauty,3,25,75,2023,8,24,August,Q3,Body Lotion
+645,24-08-2023,CUST645,Female,35,Electronics,4,30,120,2023,8,24,August,Q3,Power Adapter
+646,24-08-2023,CUST646,Male,38,Clothing,3,30,90,2023,8,24,August,Q3,Formal Shirt
+647,25-08-2023,CUST647,Male,59,Clothing,3,500,1500,2023,8,25,August,Q3,Casual Shirt
+648,25-08-2023,CUST648,Male,53,Beauty,4,300,1200,2023,8,25,August,Q3,Body Lotion
+649,25-08-2023,CUST649,Female,58,Clothing,2,300,600,2023,8,25,August,Q3,Sweater
+650,26-08-2023,CUST650,Male,55,Electronics,1,30,30,2023,8,26,August,Q3,Mouse
+651,26-08-2023,CUST651,Male,51,Clothing,3,50,150,2023,8,26,August,Q3,Jeans
+652,26-08-2023,CUST652,Female,34,Beauty,2,50,100,2023,8,26,August,Q3,Hair Oil
+653,27-08-2023,CUST653,Male,54,Clothing,3,25,75,2023,8,27,August,Q3,T-Shirt
+654,27-08-2023,CUST654,Male,42,Clothing,3,25,75,2023,8,27,August,Q3,Formal Shirt
+655,27-08-2023,CUST655,Female,55,Clothing,1,500,500,2023,8,27,August,Q3,Track Pants
+656,27-08-2023,CUST656,Male,29,Beauty,3,30,90,2023,8,27,August,Q3,Face Wash
+657,28-08-2023,CUST657,Male,40,Clothing,1,25,25,2023,8,28,August,Q3,Hoodie
+658,28-08-2023,CUST658,Male,59,Clothing,1,25,25,2023,8,28,August,Q3,T-Shirt
+659,28-08-2023,CUST659,Female,39,Electronics,1,30,30,2023,8,28,August,Q3,Wired Earphones
+660,29-08-2023,CUST660,Female,38,Beauty,2,500,1000,2023,8,29,August,Q3,Hair Serum
+661,29-08-2023,CUST661,Female,44,Clothing,4,25,100,2023,8,29,August,Q3,Kurti
+662,29-08-2023,CUST662,Male,48,Beauty,2,500,1000,2023,8,29,August,Q3,Hair Serum
+663,29-08-2023,CUST663,Male,23,Clothing,4,300,1200,2023,8,29,August,Q3,T-Shirt
+664,31-08-2023,CUST664,Female,44,Clothing,4,500,2000,2023,8,31,August,Q3,Jeans
+665,31-08-2023,CUST665,Male,57,Clothing,1,50,50,2023,8,31,August,Q3,Kurti
+666,31-08-2023,CUST666,Male,51,Electronics,3,50,150,2023,8,31,August,Q3,OTG Cable
+667,31-08-2023,CUST667,Female,29,Electronics,1,500,500,2023,8,31,August,Q3,Charging Cable
+668,31-08-2023,CUST668,Female,62,Electronics,3,50,150,2023,8,31,September,Q3,Keyboard
+669,01-09-2023,CUST669,Male,24,Beauty,4,300,1200,2023,9,1,September,Q3,Face Cream
+670,01-09-2023,CUST670,Male,27,Beauty,1,30,30,2023,9,1,September,Q3,Body Lotion
+671,01-09-2023,CUST671,Male,62,Electronics,3,50,150,2023,9,1,September,Q3,Bluetooth Receiver
+672,01-09-2023,CUST672,Female,34,Beauty,2,50,100,2023,9,1,September,Q3,Compact Powder
+673,02-09-2023,CUST673,Female,43,Clothing,3,500,1500,2023,9,2,September,Q3,Formal Shirt
+674,02-09-2023,CUST674,Female,38,Clothing,1,300,300,2023,9,2,September,Q3,T-Shirt
+675,02-09-2023,CUST675,Female,45,Clothing,2,30,60,2023,9,2,September,Q3,Formal Shirt
+676,03-09-2023,CUST676,Male,63,Electronics,3,500,1500,2023,9,3,September,Q3,Mouse
+677,04-09-2023,CUST677,Female,19,Beauty,3,500,1500,2023,9,4,September,Q3,Face Cream
+678,05-09-2023,CUST678,Female,60,Electronics,3,300,900,2023,9,5,September,Q3,Keyboard
+679,05-09-2023,CUST679,Female,18,Beauty,3,30,90,2023,9,5,September,Q3,Compact Powder
+680,06-09-2023,CUST680,Female,53,Clothing,3,300,900,2023,9,6,September,Q3,Formal Shirt
+681,06-09-2023,CUST681,Female,43,Electronics,2,30,60,2023,9,6,September,Q3,Wired Earphones
+682,06-09-2023,CUST682,Male,46,Beauty,4,300,1200,2023,9,6,September,Q3,Lip Balm
+683,06-09-2023,CUST683,Male,38,Beauty,2,500,1000,2023,9,6,September,Q3,Hair Serum
+684,06-09-2023,CUST684,Female,28,Clothing,2,500,1000,2023,9,6,September,Q3,Hoodie
+685,07-09-2023,CUST685,Male,57,Electronics,2,25,50,2023,9,7,September,Q3,OTG Cable
+686,07-09-2023,CUST686,Female,28,Electronics,4,50,200,2023,9,7,September,Q3,USB Cable
+687,07-09-2023,CUST687,Female,53,Electronics,1,300,300,2023,9,7,September,Q3,Mobile Stand
+688,08-09-2023,CUST688,Male,56,Clothing,4,25,100,2023,9,8,September,Q3,Formal Shirt
+689,08-09-2023,CUST689,Male,57,Electronics,2,50,100,2023,9,8,September,Q3,Memory Card
+690,08-09-2023,CUST690,Female,52,Clothing,3,300,900,2023,9,8,September,Q3,Kurti
+691,08-09-2023,CUST691,Female,51,Clothing,3,30,90,2023,9,8,September,Q3,Track Pants
+692,09-09-2023,CUST692,Female,64,Clothing,2,50,100,2023,9,9,September,Q3,T-Shirt
+693,09-09-2023,CUST693,Male,41,Beauty,3,500,1500,2023,9,9,September,Q3,Hair Serum
+694,09-09-2023,CUST694,Female,39,Electronics,2,25,50,2023,9,9,September,Q3,Bluetooth Receiver
+695,10-09-2023,CUST695,Female,22,Electronics,3,50,150,2023,9,10,September,Q3,Mouse
+696,11-09-2023,CUST696,Female,50,Clothing,4,50,200,2023,9,11,September,Q3,Track Pants
+697,11-09-2023,CUST697,Male,53,Clothing,1,500,500,2023,9,11,September,Q3,Denim Jacket
+698,13-09-2023,CUST698,Female,64,Electronics,1,300,300,2023,9,13,September,Q3,Power Adapter
+699,14-09-2023,CUST699,Female,37,Clothing,4,30,120,2023,9,14,September,Q3,Jeans
+700,15-09-2023,CUST700,Male,36,Electronics,4,500,2000,2023,9,15,September,Q3,Wired Earphones
+701,16-09-2023,CUST701,Female,52,Beauty,2,30,60,2023,9,16,September,Q3,Lip Balm
+702,16-09-2023,CUST702,Female,60,Clothing,2,300,600,2023,9,16,September,Q3,Sweater
+703,16-09-2023,CUST703,Male,34,Electronics,2,50,100,2023,9,16,September,Q3,Bluetooth Receiver
+704,17-09-2023,CUST704,Female,62,Clothing,3,30,90,2023,9,17,September,Q3,Hoodie
+705,17-09-2023,CUST705,Male,60,Electronics,2,25,50,2023,9,17,September,Q3,Power Adapter
+706,17-09-2023,CUST706,Male,51,Electronics,4,25,100,2023,9,17,September,Q3,Charging Cable
+707,17-09-2023,CUST707,Female,26,Clothing,1,500,500,2023,9,17,September,Q3,Kurti
+708,17-09-2023,CUST708,Female,43,Beauty,3,300,900,2023,9,17,September,Q3,Body Lotion
+709,18-09-2023,CUST709,Female,19,Electronics,2,500,1000,2023,9,18,September,Q3,Power Adapter
+710,18-09-2023,CUST710,Female,26,Electronics,3,500,1500,2023,9,18,September,Q3,USB Cable
+711,18-09-2023,CUST711,Male,26,Electronics,3,500,1500,2023,9,18,September,Q3,Wired Earphones
+712,19-09-2023,CUST712,Female,57,Beauty,2,25,50,2023,9,19,September,Q3,Compact Powder
+713,19-09-2023,CUST713,Male,34,Beauty,3,25,75,2023,9,19,September,Q3,Nail Polish
+714,21-09-2023,CUST714,Female,18,Clothing,1,500,500,2023,9,21,September,Q3,Kurti
+715,21-09-2023,CUST715,Female,42,Beauty,4,25,100,2023,9,21,September,Q3,Nail Polish
+716,22-09-2023,CUST716,Female,60,Clothing,4,300,1200,2023,9,22,September,Q3,Casual Shirt
+717,22-09-2023,CUST717,Male,57,Clothing,1,500,500,2023,9,22,September,Q3,Formal Shirt
+718,23-09-2023,CUST718,Female,59,Beauty,3,25,75,2023,9,23,September,Q3,Nail Polish
+719,24-09-2023,CUST719,Female,42,Clothing,2,30,60,2023,9,24,September,Q3,Hoodie
+720,24-09-2023,CUST720,Female,56,Beauty,3,500,1500,2023,9,24,September,Q3,Nail Polish
+721,25-09-2023,CUST721,Female,52,Clothing,1,500,500,2023,9,25,September,Q3,Cotton Trousers
+722,25-09-2023,CUST722,Male,20,Beauty,3,300,900,2023,9,25,September,Q3,Face Wash
+723,25-09-2023,CUST723,Female,54,Beauty,4,50,200,2023,9,25,September,Q3,Lip Balm
+724,26-09-2023,CUST724,Male,61,Clothing,3,50,150,2023,9,26,September,Q3,Formal Shirt
+725,28-09-2023,CUST725,Male,61,Electronics,1,300,300,2023,9,28,September,Q3,Mouse
+726,28-09-2023,CUST726,Male,47,Clothing,4,300,1200,2023,9,28,September,Q3,T-Shirt
+727,28-09-2023,CUST727,Male,55,Beauty,3,300,900,2023,9,28,September,Q3,Hair Oil
+728,29-09-2023,CUST728,Male,51,Electronics,3,50,150,2023,9,29,September,Q3,Mobile Stand
+729,29-09-2023,CUST729,Male,29,Clothing,4,300,1200,2023,9,29,September,Q3,Sweater
+730,29-09-2023,CUST730,Female,36,Clothing,2,25,50,2023,9,29,September,Q3,Track Pants
+731,29-09-2023,CUST731,Male,54,Clothing,4,500,2000,2023,9,29,September,Q3,Jeans
+732,30-09-2023,CUST732,Male,61,Electronics,2,500,1000,2023,9,30,September,Q3,Power Adapter
+733,30-09-2023,CUST733,Male,34,Beauty,1,30,30,2023,9,30,October,Q3,Hair Oil
+734,01-10-2023,CUST734,Female,27,Clothing,1,30,30,2023,10,1,October,Q4,Formal Shirt
+735,01-10-2023,CUST735,Female,64,Clothing,4,500,2000,2023,10,1,October,Q4,Denim Jacket
+736,01-10-2023,CUST736,Male,29,Clothing,4,25,100,2023,10,1,October,Q4,Hoodie
+737,02-10-2023,CUST737,Female,33,Clothing,1,50,50,2023,10,2,October,Q4,Cotton Trousers
+738,02-10-2023,CUST738,Male,41,Clothing,2,50,100,2023,10,2,October,Q4,Denim Jacket
+739,02-10-2023,CUST739,Male,36,Beauty,1,25,25,2023,10,2,October,Q4,Body Lotion
+740,02-10-2023,CUST740,Female,25,Beauty,4,50,200,2023,10,2,October,Q4,Body Lotion
+741,02-10-2023,CUST741,Male,48,Clothing,1,300,300,2023,10,2,October,Q4,Denim Jacket
+742,03-10-2023,CUST742,Female,38,Electronics,4,500,2000,2023,10,3,October,Q4,Keyboard
+743,03-10-2023,CUST743,Female,34,Beauty,4,500,2000,2023,10,3,October,Q4,Face Wash
+744,03-10-2023,CUST744,Male,40,Electronics,1,25,25,2023,10,3,October,Q4,Memory Card
+745,03-10-2023,CUST745,Male,54,Beauty,2,50,100,2023,10,3,October,Q4,Lip Balm
+746,03-10-2023,CUST746,Female,33,Clothing,3,30,90,2023,10,3,October,Q4,Hoodie
+747,04-10-2023,CUST747,Male,23,Beauty,1,30,30,2023,10,4,October,Q4,Compact Powder
+748,04-10-2023,CUST748,Male,25,Clothing,3,50,150,2023,10,4,October,Q4,Denim Jacket
+749,04-10-2023,CUST749,Male,42,Beauty,1,30,30,2023,10,4,October,Q4,Lip Balm
+750,04-10-2023,CUST750,Female,35,Clothing,3,25,75,2023,10,4,October,Q4,Jeans
+751,04-10-2023,CUST751,Female,42,Clothing,2,25,50,2023,10,4,October,Q4,Formal Shirt
+752,04-10-2023,CUST752,Male,29,Clothing,2,50,100,2023,10,4,October,Q4,Casual Shirt
+753,05-10-2023,CUST753,Female,32,Clothing,1,30,30,2023,10,5,October,Q4,Hoodie
+754,05-10-2023,CUST754,Female,43,Electronics,4,25,100,2023,10,5,October,Q4,Power Adapter
+755,06-10-2023,CUST755,Female,58,Clothing,3,25,75,2023,10,6,October,Q4,Cotton Trousers
+756,07-10-2023,CUST756,Female,62,Electronics,4,300,1200,2023,10,7,October,Q4,Mobile Stand
+757,07-10-2023,CUST757,Female,43,Electronics,4,300,1200,2023,10,7,October,Q4,Memory Card
+758,07-10-2023,CUST758,Male,64,Clothing,4,25,100,2023,10,7,October,Q4,T-Shirt
+759,07-10-2023,CUST759,Male,49,Electronics,2,50,100,2023,10,7,October,Q4,Power Adapter
+760,08-10-2023,CUST760,Male,27,Beauty,1,500,500,2023,10,8,October,Q4,Hair Serum
+761,08-10-2023,CUST761,Female,33,Clothing,1,500,500,2023,10,8,October,Q4,Sweater
+762,09-10-2023,CUST762,Female,24,Electronics,2,25,50,2023,10,9,October,Q4,Charging Cable
+763,09-10-2023,CUST763,Male,34,Clothing,2,25,50,2023,10,9,October,Q4,Casual Shirt
+764,09-10-2023,CUST764,Female,40,Clothing,1,25,25,2023,10,9,October,Q4,Cotton Trousers
+765,10-10-2023,CUST765,Male,43,Clothing,4,50,200,2023,10,10,October,Q4,Casual Shirt
+766,10-10-2023,CUST766,Male,38,Electronics,3,300,900,2023,10,10,October,Q4,Keyboard
+767,10-10-2023,CUST767,Male,39,Beauty,3,25,75,2023,10,10,October,Q4,Makeup Brush
+768,10-10-2023,CUST768,Female,24,Beauty,3,25,75,2023,10,10,October,Q4,Nail Polish
+769,11-10-2023,CUST769,Female,31,Electronics,4,30,120,2023,10,11,October,Q4,Bluetooth Receiver
+770,11-10-2023,CUST770,Male,32,Clothing,1,50,50,2023,10,11,October,Q4,Track Pants
+771,11-10-2023,CUST771,Male,24,Electronics,2,25,50,2023,10,11,October,Q4,Keyboard
+772,11-10-2023,CUST772,Male,26,Electronics,1,30,30,2023,10,11,October,Q4,Bluetooth Receiver
+773,11-10-2023,CUST773,Male,25,Electronics,4,500,2000,2023,10,11,October,Q4,Keyboard
+774,11-10-2023,CUST774,Female,40,Clothing,2,25,50,2023,10,11,October,Q4,T-Shirt
+775,11-10-2023,CUST775,Female,46,Electronics,4,25,100,2023,10,11,October,Q4,Mobile Stand
+776,12-10-2023,CUST776,Male,35,Clothing,3,30,90,2023,10,12,October,Q4,Track Pants
+777,12-10-2023,CUST777,Male,48,Electronics,3,50,150,2023,10,12,October,Q4,USB Cable
+778,12-10-2023,CUST778,Female,47,Beauty,4,25,100,2023,10,12,October,Q4,Hair Oil
+779,13-10-2023,CUST779,Female,56,Electronics,2,500,1000,2023,10,13,October,Q4,Bluetooth Receiver
+780,13-10-2023,CUST780,Male,52,Electronics,2,25,50,2023,10,13,October,Q4,Keyboard
+781,13-10-2023,CUST781,Male,35,Beauty,1,500,500,2023,10,13,October,Q4,Compact Powder
+782,14-10-2023,CUST782,Male,59,Clothing,3,300,900,2023,10,14,October,Q4,Kurti
+783,14-10-2023,CUST783,Female,56,Clothing,1,300,300,2023,10,14,October,Q4,Jeans
+784,15-10-2023,CUST784,Female,34,Electronics,1,500,500,2023,10,15,October,Q4,Keyboard
+785,15-10-2023,CUST785,Female,31,Beauty,4,50,200,2023,10,15,October,Q4,Hair Oil
+786,15-10-2023,CUST786,Male,48,Clothing,4,25,100,2023,10,15,October,Q4,Casual Shirt
+787,16-10-2023,CUST787,Male,41,Electronics,1,25,25,2023,10,16,October,Q4,Memory Card
+788,16-10-2023,CUST788,Female,52,Beauty,3,300,900,2023,10,16,October,Q4,Makeup Brush
+789,16-10-2023,CUST789,Female,61,Clothing,4,500,2000,2023,10,16,October,Q4,Sweater
+790,16-10-2023,CUST790,Male,62,Clothing,1,25,25,2023,10,16,October,Q4,Hoodie
+791,17-10-2023,CUST791,Female,51,Beauty,1,25,25,2023,10,17,October,Q4,Compact Powder
+792,17-10-2023,CUST792,Female,20,Beauty,1,50,50,2023,10,17,October,Q4,Compact Powder
+793,18-10-2023,CUST793,Male,54,Beauty,1,30,30,2023,10,18,October,Q4,Nail Polish
+794,18-10-2023,CUST794,Female,60,Beauty,1,300,300,2023,10,18,October,Q4,Lip Balm
+795,19-10-2023,CUST795,Male,57,Electronics,1,300,300,2023,10,19,October,Q4,USB Cable
+796,19-10-2023,CUST796,Male,43,Beauty,4,30,120,2023,10,19,October,Q4,Lip Balm
+797,19-10-2023,CUST797,Male,40,Clothing,3,25,75,2023,10,19,October,Q4,Hoodie
+798,19-10-2023,CUST798,Male,61,Clothing,1,50,50,2023,10,19,October,Q4,Sweater
+799,20-10-2023,CUST799,Male,56,Electronics,2,50,100,2023,10,20,October,Q4,Keyboard
+800,21-10-2023,CUST800,Male,32,Clothing,4,300,1200,2023,10,21,October,Q4,Cotton Trousers
+801,22-10-2023,CUST801,Male,21,Clothing,4,50,200,2023,10,22,October,Q4,Casual Shirt
+802,22-10-2023,CUST802,Female,46,Beauty,1,30,30,2023,10,22,October,Q4,Nail Polish
+803,22-10-2023,CUST803,Male,39,Clothing,4,25,100,2023,10,22,October,Q4,Casual Shirt
+804,23-10-2023,CUST804,Male,42,Electronics,1,30,30,2023,10,23,October,Q4,USB Cable
+805,23-10-2023,CUST805,Female,30,Beauty,3,500,1500,2023,10,23,October,Q4,Compact Powder
+806,23-10-2023,CUST806,Female,35,Beauty,3,300,900,2023,10,23,October,Q4,Makeup Brush
+807,23-10-2023,CUST807,Female,50,Electronics,4,50,200,2023,10,23,October,Q4,Power Adapter
+808,24-10-2023,CUST808,Male,33,Beauty,4,500,2000,2023,10,24,October,Q4,Hair Oil
+809,24-10-2023,CUST809,Female,62,Beauty,2,50,100,2023,10,24,October,Q4,Lip Balm
+810,24-10-2023,CUST810,Male,59,Electronics,4,25,100,2023,10,24,October,Q4,Keyboard
+811,24-10-2023,CUST811,Male,61,Beauty,2,25,50,2023,10,24,October,Q4,Body Lotion
+812,25-10-2023,CUST812,Male,19,Electronics,3,25,75,2023,10,25,October,Q4,Charging Cable
+813,25-10-2023,CUST813,Male,52,Electronics,3,50,150,2023,10,25,October,Q4,Mouse
+814,26-10-2023,CUST814,Female,59,Clothing,1,500,500,2023,10,26,October,Q4,Track Pants
+815,26-10-2023,CUST815,Female,51,Clothing,3,25,75,2023,10,26,October,Q4,Kurti
+816,26-10-2023,CUST816,Male,47,Beauty,2,500,1000,2023,10,26,October,Q4,Makeup Brush
+817,27-10-2023,CUST817,Male,30,Beauty,4,50,200,2023,10,27,October,Q4,Face Cream
+818,27-10-2023,CUST818,Male,30,Electronics,1,500,500,2023,10,27,October,Q4,USB Cable
+819,27-10-2023,CUST819,Female,35,Beauty,2,50,100,2023,10,27,October,Q4,Aloe Vera Gel
+820,29-10-2023,CUST820,Male,49,Electronics,4,50,200,2023,10,29,October,Q4,Charging Cable
+821,29-10-2023,CUST821,Male,49,Electronics,1,300,300,2023,10,29,October,Q4,Power Adapter
+822,29-10-2023,CUST822,Female,52,Beauty,3,50,150,2023,10,29,October,Q4,Hair Serum
+823,29-10-2023,CUST823,Female,56,Electronics,2,50,100,2023,10,29,October,Q4,Keyboard
+824,29-10-2023,CUST824,Male,63,Clothing,4,30,120,2023,10,29,October,Q4,Sweater
+825,29-10-2023,CUST825,Female,46,Beauty,1,25,25,2023,10,29,October,Q4,Hair Serum
+826,30-10-2023,CUST826,Female,46,Clothing,1,300,300,2023,10,30,October,Q4,Casual Shirt
+827,31-10-2023,CUST827,Male,61,Beauty,3,300,900,2023,10,31,October,Q4,Nail Polish
+828,31-10-2023,CUST828,Female,33,Electronics,4,300,1200,2023,10,31,October,Q4,Bluetooth Receiver
+829,31-10-2023,CUST829,Male,61,Beauty,3,30,90,2023,10,31,November,Q4,Makeup Brush
+830,01-11-2023,CUST830,Female,64,Clothing,3,50,150,2023,11,1,November,Q4,Sweater
+831,01-11-2023,CUST831,Male,27,Electronics,4,25,100,2023,11,1,November,Q4,Keyboard
+832,01-11-2023,CUST832,Male,47,Beauty,4,500,2000,2023,11,1,November,Q4,Body Lotion
+833,01-11-2023,CUST833,Male,42,Beauty,4,50,200,2023,11,1,November,Q4,Face Wash
+834,02-11-2023,CUST834,Female,56,Beauty,2,30,60,2023,11,2,November,Q4,Face Wash
+835,02-11-2023,CUST835,Male,37,Clothing,4,50,200,2023,11,2,November,Q4,Casual Shirt
+836,02-11-2023,CUST836,Female,22,Clothing,1,50,50,2023,11,2,November,Q4,Kurti
+837,02-11-2023,CUST837,Male,18,Beauty,3,30,90,2023,11,2,November,Q4,Lip Balm
+838,02-11-2023,CUST838,Male,47,Electronics,2,300,600,2023,11,2,November,Q4,Memory Card
+839,02-11-2023,CUST839,Female,20,Electronics,4,300,1200,2023,11,2,November,Q4,Mobile Stand
+840,03-11-2023,CUST840,Male,62,Clothing,2,25,50,2023,11,3,November,Q4,Formal Shirt
+841,04-11-2023,CUST841,Male,31,Electronics,4,25,100,2023,11,4,November,Q4,Wired Earphones
+842,05-11-2023,CUST842,Female,47,Clothing,2,300,600,2023,11,5,November,Q4,Formal Shirt
+843,05-11-2023,CUST843,Male,21,Beauty,3,500,1500,2023,11,5,November,Q4,Body Lotion
+844,06-11-2023,CUST844,Male,35,Clothing,3,50,150,2023,11,6,November,Q4,T-Shirt
+845,06-11-2023,CUST845,Male,54,Clothing,1,500,500,2023,11,6,November,Q4,Denim Jacket
+846,07-11-2023,CUST846,Male,42,Beauty,1,50,50,2023,11,7,November,Q4,Aloe Vera Gel
+847,07-11-2023,CUST847,Female,18,Electronics,4,300,1200,2023,11,7,November,Q4,Wired Earphones
+848,07-11-2023,CUST848,Female,63,Clothing,3,25,75,2023,11,7,November,Q4,Sweater
+849,07-11-2023,CUST849,Male,32,Clothing,2,25,50,2023,11,7,November,Q4,Cotton Trousers
+850,07-11-2023,CUST850,Female,26,Beauty,2,500,1000,2023,11,7,November,Q4,Makeup Brush
+851,07-11-2023,CUST851,Male,32,Electronics,2,25,50,2023,11,7,November,Q4,Power Adapter
+852,08-11-2023,CUST852,Female,41,Clothing,1,300,300,2023,11,8,November,Q4,Formal Shirt
+853,08-11-2023,CUST853,Male,21,Beauty,2,500,1000,2023,11,8,November,Q4,Nail Polish
+854,09-11-2023,CUST854,Male,29,Clothing,1,50,50,2023,11,9,November,Q4,Kurti
+855,09-11-2023,CUST855,Male,54,Beauty,1,25,25,2023,11,9,November,Q4,Makeup Brush
+856,09-11-2023,CUST856,Male,54,Electronics,4,30,120,2023,11,9,November,Q4,Memory Card
+857,10-11-2023,CUST857,Male,60,Electronics,2,25,50,2023,11,10,November,Q4,Keyboard
+858,10-11-2023,CUST858,Male,23,Electronics,2,50,100,2023,11,10,November,Q4,OTG Cable
+859,12-11-2023,CUST859,Female,56,Electronics,3,500,1500,2023,11,12,November,Q4,Charging Cable
+860,12-11-2023,CUST860,Male,63,Clothing,4,50,200,2023,11,12,November,Q4,Casual Shirt
+861,13-11-2023,CUST861,Female,41,Clothing,3,30,90,2023,11,13,November,Q4,T-Shirt
+862,13-11-2023,CUST862,Male,28,Electronics,4,300,1200,2023,11,13,November,Q4,Memory Card
+863,14-11-2023,CUST863,Female,30,Electronics,2,25,50,2023,11,14,November,Q4,Wired Earphones
+864,14-11-2023,CUST864,Female,51,Electronics,1,500,500,2023,11,14,November,Q4,USB Cable
+865,14-11-2023,CUST865,Female,42,Clothing,1,300,300,2023,11,14,November,Q4,Sweater
+866,14-11-2023,CUST866,Male,24,Electronics,1,50,50,2023,11,14,November,Q4,Memory Card
+867,15-11-2023,CUST867,Male,21,Electronics,1,500,500,2023,11,15,November,Q4,Mobile Stand
+868,15-11-2023,CUST868,Female,25,Electronics,1,300,300,2023,11,15,November,Q4,OTG Cable
+869,15-11-2023,CUST869,Male,37,Beauty,3,500,1500,2023,11,15,November,Q4,Nail Polish
+870,16-11-2023,CUST870,Female,46,Electronics,4,30,120,2023,11,16,November,Q4,Bluetooth Receiver
+871,17-11-2023,CUST871,Male,62,Beauty,2,30,60,2023,11,17,November,Q4,Face Cream
+872,17-11-2023,CUST872,Female,63,Beauty,3,25,75,2023,11,17,November,Q4,Lip Balm
+873,17-11-2023,CUST873,Female,27,Electronics,4,25,100,2023,11,17,November,Q4,Keyboard
+874,17-11-2023,CUST874,Male,60,Beauty,1,30,30,2023,11,17,November,Q4,Hair Oil
+875,18-11-2023,CUST875,Female,51,Electronics,4,500,2000,2023,11,18,November,Q4,OTG Cable
+876,18-11-2023,CUST876,Male,43,Clothing,4,30,120,2023,11,18,November,Q4,Hoodie
+877,18-11-2023,CUST877,Female,58,Clothing,1,25,25,2023,11,18,November,Q4,Casual Shirt
+878,19-11-2023,CUST878,Female,20,Clothing,1,30,30,2023,11,19,November,Q4,Cotton Trousers
+879,19-11-2023,CUST879,Male,23,Clothing,1,30,30,2023,11,19,November,Q4,T-Shirt
+880,20-11-2023,CUST880,Male,22,Beauty,2,500,1000,2023,11,20,November,Q4,Lip Balm
+881,21-11-2023,CUST881,Male,22,Electronics,1,300,300,2023,11,21,November,Q4,Mobile Stand
+882,21-11-2023,CUST882,Female,64,Electronics,2,25,50,2023,11,21,November,Q4,Bluetooth Receiver
+883,21-11-2023,CUST883,Male,40,Electronics,1,500,500,2023,11,21,November,Q4,Keyboard
+884,22-11-2023,CUST884,Female,26,Clothing,2,30,60,2023,11,22,November,Q4,Cotton Trousers
+885,22-11-2023,CUST885,Female,52,Clothing,4,30,120,2023,11,22,November,Q4,Jeans
+886,22-11-2023,CUST886,Male,37,Electronics,3,300,900,2023,11,22,November,Q4,OTG Cable
+887,23-11-2023,CUST887,Male,59,Clothing,4,25,100,2023,11,23,November,Q4,Track Pants
+888,23-11-2023,CUST888,Female,52,Electronics,4,25,100,2023,11,23,November,Q4,USB Cable
+889,23-11-2023,CUST889,Female,35,Electronics,1,50,50,2023,11,23,November,Q4,USB Cable
+890,24-11-2023,CUST890,Male,34,Electronics,2,25,50,2023,11,24,November,Q4,Bluetooth Receiver
+891,24-11-2023,CUST891,Male,41,Electronics,3,300,900,2023,11,24,November,Q4,Keyboard
+892,24-11-2023,CUST892,Male,20,Electronics,1,50,50,2023,11,24,November,Q4,Wired Earphones
+893,25-11-2023,CUST893,Male,49,Electronics,1,50,50,2023,11,25,November,Q4,Charging Cable
+894,25-11-2023,CUST894,Male,52,Electronics,1,30,30,2023,11,25,November,Q4,Bluetooth Receiver
+895,26-11-2023,CUST895,Female,55,Clothing,4,30,120,2023,11,26,November,Q4,Hoodie
+896,26-11-2023,CUST896,Female,30,Electronics,2,25,50,2023,11,26,November,Q4,Wired Earphones
+897,27-11-2023,CUST897,Female,64,Electronics,2,50,100,2023,11,27,November,Q4,Charging Cable
+898,27-11-2023,CUST898,Female,42,Clothing,3,30,90,2023,11,27,November,Q4,Kurti
+899,27-11-2023,CUST899,Male,26,Clothing,2,300,600,2023,11,27,November,Q4,Cotton Trousers
+900,28-11-2023,CUST900,Male,21,Clothing,2,30,60,2023,11,28,November,Q4,Casual Shirt
+901,28-11-2023,CUST901,Male,31,Electronics,1,30,30,2023,11,28,November,Q4,Memory Card
+902,29-11-2023,CUST902,Female,54,Beauty,1,50,50,2023,11,29,November,Q4,Hair Oil
+903,29-11-2023,CUST903,Female,51,Beauty,4,50,200,2023,11,29,November,Q4,Nail Polish
+904,29-11-2023,CUST904,Male,28,Clothing,1,500,500,2023,11,29,November,Q4,Denim Jacket
+905,30-11-2023,CUST905,Male,58,Beauty,1,300,300,2023,11,30,November,Q4,Compact Powder
+906,30-11-2023,CUST906,Female,20,Clothing,1,50,50,2023,11,30,November,Q4,Denim Jacket
+907,30-11-2023,CUST907,Female,45,Electronics,1,25,25,2023,11,30,December,Q4,OTG Cable
+908,01-12-2023,CUST908,Male,46,Beauty,4,300,1200,2023,12,1,December,Q4,Compact Powder
+909,01-12-2023,CUST909,Male,26,Electronics,1,300,300,2023,12,1,December,Q4,Memory Card
+910,02-12-2023,CUST910,Female,20,Beauty,3,50,150,2023,12,2,December,Q4,Hair Serum
+911,02-12-2023,CUST911,Male,42,Electronics,3,300,900,2023,12,2,December,Q4,USB Cable
+912,02-12-2023,CUST912,Male,51,Beauty,3,50,150,2023,12,2,December,Q4,Hair Serum
+913,03-12-2023,CUST913,Male,29,Electronics,3,30,90,2023,12,3,December,Q4,OTG Cable
+914,04-12-2023,CUST914,Female,59,Electronics,1,500,500,2023,12,4,December,Q4,OTG Cable
+915,04-12-2023,CUST915,Female,26,Beauty,3,30,90,2023,12,4,December,Q4,Aloe Vera Gel
+916,04-12-2023,CUST916,Female,32,Electronics,1,50,50,2023,12,4,December,Q4,Keyboard
+917,04-12-2023,CUST917,Female,57,Electronics,4,50,200,2023,12,4,December,Q4,OTG Cable
+918,05-12-2023,CUST918,Female,42,Electronics,3,30,90,2023,12,5,December,Q4,Keyboard
+919,05-12-2023,CUST919,Female,22,Beauty,2,25,50,2023,12,5,December,Q4,Hair Oil
+920,05-12-2023,CUST920,Female,28,Beauty,3,25,75,2023,12,5,December,Q4,Face Wash
+921,05-12-2023,CUST921,Male,51,Electronics,3,25,75,2023,12,5,December,Q4,Bluetooth Receiver
+922,05-12-2023,CUST922,Male,41,Electronics,1,50,50,2023,12,5,December,Q4,Wired Earphones
+923,06-12-2023,CUST923,Male,32,Beauty,3,300,900,2023,12,6,December,Q4,Compact Powder
+924,06-12-2023,CUST924,Male,55,Beauty,2,50,100,2023,12,6,December,Q4,Makeup Brush
+925,06-12-2023,CUST925,Male,25,Electronics,1,300,300,2023,12,6,December,Q4,Mouse
+926,06-12-2023,CUST926,Male,22,Electronics,1,30,30,2023,12,6,December,Q4,Keyboard
+927,06-12-2023,CUST927,Male,43,Electronics,4,500,2000,2023,12,6,December,Q4,Wired Earphones
+928,07-12-2023,CUST928,Female,35,Clothing,4,300,1200,2023,12,7,December,Q4,Cotton Trousers
+929,07-12-2023,CUST929,Female,23,Beauty,3,25,75,2023,12,7,December,Q4,Face Wash
+930,08-12-2023,CUST930,Male,54,Clothing,4,50,200,2023,12,8,December,Q4,Cotton Trousers
+931,08-12-2023,CUST931,Male,30,Beauty,4,30,120,2023,12,8,December,Q4,Aloe Vera Gel
+932,08-12-2023,CUST932,Female,45,Beauty,4,25,100,2023,12,8,December,Q4,Hair Oil
+933,08-12-2023,CUST933,Male,22,Beauty,1,30,30,2023,12,8,December,Q4,Hair Serum
+934,09-12-2023,CUST934,Male,30,Beauty,1,500,500,2023,12,9,December,Q4,Hair Serum
+935,09-12-2023,CUST935,Female,34,Beauty,1,50,50,2023,12,9,December,Q4,Makeup Brush
+936,09-12-2023,CUST936,Male,57,Beauty,4,50,200,2023,12,9,December,Q4,Nail Polish
+937,09-12-2023,CUST937,Female,62,Beauty,1,500,500,2023,12,9,December,Q4,Aloe Vera Gel
+938,09-12-2023,CUST938,Male,49,Clothing,4,50,200,2023,12,9,December,Q4,Denim Jacket
+939,09-12-2023,CUST939,Female,46,Electronics,1,300,300,2023,12,9,December,Q4,Wired Earphones
+940,10-12-2023,CUST940,Female,20,Electronics,1,30,30,2023,12,10,December,Q4,Keyboard
+941,10-12-2023,CUST941,Female,57,Clothing,2,25,50,2023,12,10,December,Q4,Hoodie
+942,10-12-2023,CUST942,Male,51,Clothing,3,500,1500,2023,12,10,December,Q4,Kurti
+943,10-12-2023,CUST943,Female,57,Clothing,4,300,1200,2023,12,10,December,Q4,Track Pants
+944,11-12-2023,CUST944,Male,44,Clothing,2,25,50,2023,12,11,December,Q4,Denim Jacket
+945,11-12-2023,CUST945,Male,30,Beauty,1,25,25,2023,12,11,December,Q4,Hair Serum
+946,12-12-2023,CUST946,Male,62,Electronics,4,500,2000,2023,12,12,December,Q4,Mobile Stand
+947,12-12-2023,CUST947,Male,50,Beauty,1,300,300,2023,12,12,December,Q4,Aloe Vera Gel
+948,13-12-2023,CUST948,Female,23,Electronics,3,25,75,2023,12,13,December,Q4,USB Cable
+949,13-12-2023,CUST949,Female,41,Electronics,2,25,50,2023,12,13,December,Q4,Mouse
+950,13-12-2023,CUST950,Male,36,Clothing,3,300,900,2023,12,13,December,Q4,Formal Shirt
+951,14-12-2023,CUST951,Male,33,Beauty,2,50,100,2023,12,14,December,Q4,Hair Oil
+952,14-12-2023,CUST952,Female,57,Clothing,1,25,25,2023,12,14,December,Q4,Sweater
+953,15-12-2023,CUST953,Male,45,Beauty,3,30,90,2023,12,15,December,Q4,Compact Powder
+954,15-12-2023,CUST954,Female,50,Electronics,3,300,900,2023,12,15,December,Q4,Wired Earphones
+955,16-12-2023,CUST955,Male,58,Clothing,1,25,25,2023,12,16,December,Q4,T-Shirt
+956,16-12-2023,CUST956,Male,30,Clothing,3,500,1500,2023,12,16,December,Q4,Kurti
+957,16-12-2023,CUST957,Female,60,Electronics,4,30,120,2023,12,16,December,Q4,Memory Card
+958,17-12-2023,CUST958,Male,62,Electronics,2,25,50,2023,12,17,December,Q4,OTG Cable
+959,17-12-2023,CUST959,Female,42,Electronics,2,30,60,2023,12,17,December,Q4,Charging Cable
+960,18-12-2023,CUST960,Male,59,Clothing,2,30,60,2023,12,18,December,Q4,Hoodie
+961,18-12-2023,CUST961,Male,53,Beauty,4,50,200,2023,12,18,December,Q4,Face Wash
+962,18-12-2023,CUST962,Male,44,Clothing,2,30,60,2023,12,18,December,Q4,Hoodie
+963,18-12-2023,CUST963,Female,55,Beauty,1,50,50,2023,12,18,December,Q4,Face Wash
+964,19-12-2023,CUST964,Male,24,Clothing,3,300,900,2023,12,19,December,Q4,Track Pants
+965,19-12-2023,CUST965,Male,22,Clothing,4,50,200,2023,12,19,December,Q4,Formal Shirt
+966,19-12-2023,CUST966,Male,60,Electronics,2,500,1000,2023,12,19,December,Q4,Mouse
+967,20-12-2023,CUST967,Male,62,Beauty,1,25,25,2023,12,20,December,Q4,Makeup Brush
+968,20-12-2023,CUST968,Female,48,Clothing,3,300,900,2023,12,20,December,Q4,Denim Jacket
+969,20-12-2023,CUST969,Female,40,Clothing,3,300,900,2023,12,20,December,Q4,Cotton Trousers
+970,20-12-2023,CUST970,Male,59,Electronics,4,500,2000,2023,12,20,December,Q4,Mouse
+971,20-12-2023,CUST971,Female,27,Electronics,4,50,200,2023,12,20,December,Q4,Keyboard
+972,21-12-2023,CUST972,Male,49,Beauty,4,25,100,2023,12,21,December,Q4,Hair Oil
+973,22-12-2023,CUST973,Male,60,Clothing,1,50,50,2023,12,22,December,Q4,Track Pants
+974,23-12-2023,CUST974,Male,47,Beauty,1,30,30,2023,12,23,December,Q4,Lip Balm
+975,23-12-2023,CUST975,Female,56,Clothing,4,50,200,2023,12,23,December,Q4,T-Shirt
+976,23-12-2023,CUST976,Female,48,Beauty,2,300,600,2023,12,23,December,Q4,Nail Polish
+977,23-12-2023,CUST977,Female,35,Electronics,3,25,75,2023,12,23,December,Q4,Bluetooth Receiver
+978,23-12-2023,CUST978,Female,53,Clothing,3,50,150,2023,12,23,December,Q4,T-Shirt
+979,23-12-2023,CUST979,Female,19,Beauty,1,25,25,2023,12,23,December,Q4,Makeup Brush
+980,24-12-2023,CUST980,Female,31,Electronics,3,25,75,2023,12,24,December,Q4,Mouse
+981,24-12-2023,CUST981,Female,30,Electronics,2,30,60,2023,12,24,December,Q4,Mobile Stand
+982,25-12-2023,CUST982,Female,46,Beauty,3,30,90,2023,12,25,December,Q4,Face Wash
+983,26-12-2023,CUST983,Female,29,Clothing,1,300,300,2023,12,26,December,Q4,Track Pants
+984,26-12-2023,CUST984,Male,56,Clothing,1,500,500,2023,12,26,December,Q4,Casual Shirt
+985,26-12-2023,CUST985,Female,19,Electronics,2,25,50,2023,12,26,December,Q4,Mobile Stand
+986,26-12-2023,CUST986,Female,49,Clothing,2,500,1000,2023,12,26,December,Q4,Sweater
+987,26-12-2023,CUST987,Female,30,Clothing,3,300,900,2023,12,26,December,Q4,Sweater
+988,26-12-2023,CUST988,Female,63,Clothing,3,25,75,2023,12,26,December,Q4,Sweater
+989,27-12-2023,CUST989,Female,44,Electronics,1,25,25,2023,12,27,December,Q4,OTG Cable
+990,27-12-2023,CUST990,Female,58,Beauty,2,500,1000,2023,12,27,December,Q4,Compact Powder
+991,28-12-2023,CUST991,Female,34,Clothing,2,50,100,2023,12,28,December,Q4,Formal Shirt
+992,28-12-2023,CUST992,Female,57,Electronics,2,30,60,2023,12,28,December,Q4,USB Cable
+993,28-12-2023,CUST993,Female,48,Electronics,3,50,150,2023,12,28,December,Q4,Keyboard
+994,29-12-2023,CUST994,Female,51,Beauty,2,500,1000,2023,12,29,December,Q4,Hair Oil
+995,29-12-2023,CUST995,Female,41,Clothing,1,30,30,2023,12,29,December,Q4,Cotton Trousers
+996,29-12-2023,CUST996,Male,62,Clothing,1,50,50,2023,12,29,December,Q4,Cotton Trousers
+997,29-12-2023,CUST997,Male,52,Beauty,3,30,90,2023,12,29,December,Q4,Aloe Vera Gel
+998,31-12-2023,CUST998,Female,23,Beauty,4,25,100,2023,12,31,name of monyh,Q4,Makeup Brush
+,,,,,,,,,,,,,,Unknown Product
+,,,,,,,,,,,,,,Unknown Product
